@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Code Story</title>
+	<link href="http://www.code-play.net/atom.xml" rel="self" />
+	<link href="http://www.code-play.net/" />
+	<updated>2011-11-14T10:37:32+01:00</updated>
+	<id>http://www.code-play.net/</id>
+	<author>
+		<name>David Gageot</name>
+		<email>david@gageot.net</email>
+	</author>
+
+	
+	<entry>
+		<title>First Post</title>
+		<link href="http://www.code-play.net/2011/11/14/first.html" />
+		<updated>2011-11-14T00:00:00+01:00</updated>
+		<id>http://www.code-play.net/2011/11/14/first</id>
+		<content type="html">&lt;p&gt;Coming soon&lt;/p&gt;</content>
+	</entry>
+	
+</feed>
