@@ -13,16 +13,16 @@ Ecrivez un programme qui affiche les nombres de 1 à 100. Un nombre par ligne. R
  * Si le nombre est divible par 7 ou contient 7, écrire "Qix" à la place de 7.
 
 
-Voici un exemple de rendu
-=========================
+Voici un exemple de rendu (Mise à jour v3)
+==========================================
 
 	1
 	2
-	Foo
+	FooFoo
 	4
-	Bar
+	BarBar
 	Foo
-	Qix
+	QixQix
 	8
 	Foo
 	Bar
