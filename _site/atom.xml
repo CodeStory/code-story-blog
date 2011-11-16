@@ -3,7 +3,7 @@
 	<title>Code Story</title>
 	<link href="http://www.code-play.net/atom.xml" rel="self" />
 	<link href="http://www.code-play.net/" />
-	<updated>2011-11-16T08:23:54+01:00</updated>
+	<updated>2011-11-16T08:40:22+01:00</updated>
 	<id>http://www.code-play.net/</id>
 	<author>
 		<name>David Gageot</name>
@@ -13,20 +13,18 @@
 	
 	<entry>
 		<title>FooBarQix code selection exercise</title>
-		<link href="http://www.code-play.net/2011/11/16/first.html" />
+		<link href="http://www.code-play.net/2011/11/16/foobarqix.html" />
 		<updated>2011-11-16T00:00:00+01:00</updated>
-		<id>http://www.code-play.net/2011/11/16/first</id>
-		<content type="html">&lt;h1 id='part_i'&gt;Part I&lt;/h1&gt;
+		<id>http://www.code-play.net/2011/11/16/foobarqix</id>
+		<content type="html">&lt;h1 id='you_know_fizzbuzz_'&gt;You know FizzBuzz ?&lt;/h1&gt;
 
-&lt;p&gt;Write a program that prints the numbers from 1 to 100. But for multiples of three print &amp;#8220;Foo&amp;#8221; instead of the number and for the multiples of five print &amp;#8220;Bar&amp;#8221;. For numbers which are multiples of both three and five print &amp;#8220;FooBar&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;To solve FizzBuzz kata, one should write a program that prints the numbers from 1 to 100. One number per line. For multiples of 3 print &amp;#8220;Fizz&amp;#8221; instead of the number and for the multiples of 5 print &amp;#8220;Buzz&amp;#8221;. For multiples of both 3 and 5 print &amp;#8220;FizzBuzz&amp;#8221;.&lt;/p&gt;
 
-&lt;h1 id='part_ii'&gt;Part II&lt;/h1&gt;
+&lt;h1 id='we_want_you_to_do_foobarqix_instead_'&gt;We want you to do FooBarQix instead !&lt;/h1&gt;
 
-&lt;p&gt;Many of the above rules are the same. In this case, the number 3 becomes Foo, 5 becomes Bar, and 7 becomes Qix. The main rules in this game are that any number that contains the number or is divisible by that number is replaced by an occurrence of the word. If the number has 2 instances of that number (i.e. 33 or 55) and is divisible by that number, then the word is said three times in this example. The additional rule is that the words (if more than one occurs) must be said in the order given in the title.&lt;/p&gt;
+&lt;p&gt;Keep the same rules as above with a couple of changes. In this case, the number 3 becomes Foo, 5 becomes Bar, and 7 becomes Qix.&lt;/p&gt;
 
-&lt;p&gt;Write code that implements both parts.&lt;/p&gt;
-
-&lt;p&gt;Your code must run in a jvm, if you&amp;#8217;re doing fancy stuff explain us how to run your code. Just send an URL pointing to a public github repository and anything you want us to know about you to qualif@code-story.net before December 16th 2011.&lt;/p&gt;
+&lt;p&gt;Your code must run in a jvm, if you&amp;#8217;re doing fancy stuff explain us how to run your code. Just send an URL pointing to a public github repository and anything you want us to know about you to &lt;a href='mailto:qualif@code-story.net'&gt;qualif@code-story.net&lt;/a&gt; before December 16th 2011.&lt;/p&gt;
 
 &lt;p&gt;Be inventive, be pragmatic, write beautiful code, impress us, show us you want to code with us.&lt;/p&gt;
 
