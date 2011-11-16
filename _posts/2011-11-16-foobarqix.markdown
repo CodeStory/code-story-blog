@@ -8,9 +8,9 @@ We want you to do FooBarQix
 
 Ecrivez un programme qui affiche les nombres de 1 à 100. Un nombre par ligne. Respectez les règles suivantes :
 
- * Si le nombre est divible par 3 ou contient 3, écrire "Foo" à la place de 3.
- * Si le nombre est divible par 5 ou contient 5, écrire "Bar" à la place de 5.
- * Si le nombre est divible par 7 ou contient 7, écrire "Qix" à la place de 7.
+ * Si le nombre est divisible par 3 ou contient 3, écrire "Foo" à la place de 3.
+ * Si le nombre est divisible par 5 ou contient 5, écrire "Bar" à la place de 5.
+ * Si le nombre est divisible par 7 ou contient 7, écrire "Qix" à la place de 7.
 
 
 Voici un exemple de rendu (Mise à jour v3)
