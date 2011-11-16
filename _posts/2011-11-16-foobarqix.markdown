@@ -13,8 +13,8 @@ Ecrivez un programme qui affiche les nombres de 1 à 100. Un nombre par ligne. R
  * Si le nombre est divisible par 7 ou contient 7, écrire "Qix" à la place de 7.
 
 
-Voici un exemple de rendu (Mise à jour v3)
-==========================================
+Voici un exemple de rendu
+=========================
 
 	1
 	2
@@ -31,6 +31,13 @@ Voici un exemple de rendu (Mise à jour v3)
 	Par exemple, 13 contient 3 donc s'écrit "Foo"
 	Par exemple, 15 est divisible par 3 et 5 et contient un 5 donc s'écrit "FooBarBar"
 	Par exemple, 33 contient deux fois 3  et est divisible par 3 donc s'écrit "FooFooFoo"
+	
+Mise à jour : Clarifications sur les règles
+===========================================
+
+ * On regarde les diviseurs avant le contenu (ex: 51 -> FooBar)
+ * On regarde le contenu dans l'ordre où il apparait (ex: 53 -> BarFoo)
+ * On regarde les multiples dans l'ordre Foo, Bar puis Qix (ex: 21 -> FooQix)
 
 A vous de jouer !
 =================
