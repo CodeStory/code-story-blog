@@ -30,27 +30,47 @@ table {
 
 /* Custom Style */
 body {
-	background-color: #171717;
-	color: white;
+	color: #171717;
+	font-family: 'Lato', sans-serif;
 }
 
-#bio {
-	background: url('../media/aboutme.jpg') no-repeat;
-	width: 1024px;
-	height: 640px;
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+h1 {
+	font-size: larger;
+	font-weight: bold;
+}
+
+h1,h3 {
+	margin: 0 0 10px 10px;
+}
+
+#title {
+	width: 600px;
+	height: 50px;
 	position: absolute; 
 	left: 50%; 
 	top: 50%;
-	margin: -320px 0 0 -512px;
-	border: solid 1px rgb(100,100,100);
+	margin: -340px 0 0 -300px;
 }
 
-#bio p, #social {
-	margin: 40px 520px 0 50px;
-	font-family: 'Lato', sans-serif;	text-align: justify;
-	font-size: larger;
+#post {
+	width: 600px;
+	height: 600px;
+	position: absolute; 
+	left: 50%; 
+	top: 50%;
+	margin: -240px 0 0 -300px;
 }
 
-a {
-	color: rgb(115,230,0);
+#post p {
+	margin: 10px 10px 20px 10px;
+	text-align: justify;
+	font-size: large;
 }
