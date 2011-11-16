@@ -13,7 +13,7 @@ We want you to do FooBarQix instead !
 
 Keep the same rules as above with a couple of changes. In this case, the number 3 becomes Foo, 5 becomes Bar, and 7 becomes Qix.
 
-Your code must run in a jvm, if you're doing fancy stuff explain us how to run your code. Just send an URL pointing to a public github repository and anything you want us to know about you to [qualif@code-story.net](mailto:qualif@code-story.net) before December 16th 2011.
+Your code must run in a jvm. If you're doing fancy stuff explain us how to run your code. Just send an URL pointing to a public github repository and anything you want us to know about you to [qualif@code-story.net](mailto:qualif@code-story.net) before December 16th 2011.
 
 Be inventive, be pragmatic, write beautiful code, impress us, show us you want to code with us.
 
