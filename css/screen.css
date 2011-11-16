@@ -38,10 +38,6 @@ em {
 	font-style: italic;
 }
 
-strong {
-	font-weight: bold;
-}
-
 h1 {
 	font-size: larger;
 	font-weight: bold;
@@ -51,26 +47,25 @@ h1,h3 {
 	margin: 0 0 10px 10px;
 }
 
-#title {
+#title, #post {
 	width: 600px;
-	height: 50px;
 	position: absolute; 
 	left: 50%; 
 	top: 50%;
-	margin: -340px 0 0 -300px;
+}
+
+#title {
+	height: 50px;
+	margin: -350px 0 0 -300px;
 }
 
 #post {
-	width: 600px;
 	height: 600px;
-	position: absolute; 
-	left: 50%; 
-	top: 50%;
-	margin: -240px 0 0 -300px;
+	margin: -270px 0 0 -300px;
 }
 
-#post p {
+p, ul, pre {
 	margin: 10px 10px 20px 10px;
 	text-align: justify;
-	font-size: large;
+	font-size: medium;
 }
