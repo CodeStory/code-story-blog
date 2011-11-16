@@ -25,10 +25,11 @@ Voici un exemple de rendu
 	Qix
 	8
 	Foo
-	FooBar
+	Bar
 	...
 	
 	Par exemple, 13 contient 3 donc s'écrit "Foo"
+	Par exemple, 15 est divisible par 3 et 5 et contient un 5 donc s'écrit "FooBarBar"
 	Par exemple, 33 contient deux fois 3  et est divisible par 3 donc s'écrit "FooFooFoo"
 
 A vous de jouer !
