@@ -3,22 +3,25 @@ layout: post
 title: Quel est le but de ce concours ?
 ---
 
-Notre projet **Code Story** va se dérouler en 3 phases : une phase de pré-sélection, une sélection, une session à Devoxx France.
+Notre projet **Code Story** va se dérouler en 3 phases : une pré-sélection, une sélection, une session à **Devoxx France**.
 
 ![Les 3 phases](/images/schema.png)
 
-Commençons par la phase finale pour bien comprendre le but de notre démarche.
+Commençons par la fin pour comprendre le but de notre démarche.
 
-Session "Code Story" à Devoxx France
-====================================
+"Code Story" à Devoxx France
+============================
+
+Nous allons coder à Devoxx, une application en live, pendant 2 jours. L'idée est de développer une application exceptionnelle tout en montrant à l'audience des techniques de exceptionnelles.
+
 TODO
 
 Sélection et pré-sélection
 ==========================
-Afin que la session se passe dans les meilleurs conditions possibles, nous voulons trouver 1 autre binôme, donc 2 personnes pour nous aider dans la réalisation du produit. Coder une application en live et permettre que ça soit visible et compréhensible par le public qui va venir interagir avec nous, demande plus que deux personnes.
+Afin que la session se passe dans les meilleurs conditions possibles, nous voulons trouver 1 autre binôme, donc 2 personnes pour nous aider dans la réalisation du produit. Coder une application en live et permettre que ça soit visible et compréhensible par le public, qui va venir interagir avec nous, demande plus que deux personnes.
 
-Pour trouver ce binôme nous avons lancé au moment de l'annonce de Devoxx France, une pré-sélection sous la forme d'un mini-concours qui consiste à nous envoyer un petit bout de code, c'est plus une barriere afin de limiter le nombre de personne lors de la sélection.
+Pour trouver ce binôme nous avons lancé au moment de l'annonce de **Devoxx France**, une pré-sélection sous la forme d'un mini-concours qui consiste à nous envoyer un petit bout de code.
 
-Cette sélection aura lieu sous forme de démonstration live de code, avec un jury qui qualifiera la prestation.
+Le deuxième tour de sélection aura lieu sous forme de démonstration live de code, avec un jury qui qualifiera la prestation.
 
 *David & Jean-Laurent*
