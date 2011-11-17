@@ -15,6 +15,10 @@ TODO
 
 Sélection et pré-sélection
 ==========================
-TODO
+Afin que la session se passe dans les meilleurs conditions possibles, nous voulons trouver 1 autre binôme, donc 2 personnes pour nous aider dans la réalisation du produit. Coder une application en live et permettre que ça soit visible et compréhensible par le public qui va venir interagir avec nous, demande plus que deux personnes.
+
+Pour trouver ce binôme nous avons lancé au moment de l'annonce de Devoxx France, une pré-sélection sous la forme d'un mini-concours qui consiste à nous envoyer un petit bout de code, c'est plus une barriere afin de limiter le nombre de personne lors de la sélection.
+
+Cette sélection aura lieu sous forme de démonstration live de code, avec un jury qui qualifiera la prestation.
 
 *David & Jean-Laurent*
