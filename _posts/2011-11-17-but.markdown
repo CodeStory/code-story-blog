@@ -11,23 +11,20 @@ Commençons par la fin pour comprendre le but de notre démarche.
 
 # "Code Story" à Devoxx France
 
-Nous allons coder à Devoxx, une application en live, pendant 2 jours. L'idée est de développer une application exceptionnelle tout en montrant à l'audience des techniques exceptionnelles. Nous sommes des grands fans des solutions simples & pragmatiques, on utilise juste ce qu'il faut de frameworks et on teste tout ce que l'on fait.
+Nous, [David](https://plus.google.com/100241047121875700803/about) et [Jean Laurent](https://plus.google.com/106566320836551483322/about), souhaitons coder à Devoxx France, une application en direct, en 2 jours. L'idée est de produire une application exceptionnelle tout en montrant à l'audience des techniques exceptionnelles. 
 
- * TODO - Iterations
- * TODO - Binome
- * TODO - Rich Display
- * TODO -
- * TODO - 
- * TODO - 
- * TODO - 
- * TODO - 
- * TODO - 
- * TODO - 
- * TODO - 
+Nous pensons fragmenter la session en itérations d'une heure ou deux, avec un maximum de feedback visuel. Ainsi chaque participant pourra suivre et comprendre ce qui se passe sur le projet même s'il n'assiste qu'à une itération.
+
+La forme et le contenu exacts de cette session sont encore vagues. Cela va s'affiner dans le semaines qui viennent. 
+
+# Comment juger notre succès ?
+
+Nous serons heureux si chaque participant ressort en ayant appris quelque chose.
+Nous serons comblés si chaque participant à la conférence vient assister à au moins une itération. 
 
 # Sélection et pré-sélection
 
-Afin que la session se passe dans les meilleurs conditions possibles, nous voulons trouver 1 autre binôme, donc 2 personnes, pour nous aider dans la réalisation du produit. Coder une application en live, permettre que ça soit visible et compréhensible par le public, qui va venir interagir avec nous, demande plus que deux personnes.
+Afin que la session se passe dans les meilleurs conditions possibles, nous voulons trouver 1 autre binôme, donc 2 personnes pour nous aider dans la préparation et la réalisation du produit. Coder une application en live et permettre que ça soit visible et compréhensible par le public, qui va venir interagir avec nous, demande plus que deux personnes.
 
 Pour trouver ce binôme nous avons lancé au moment de l'annonce de **Devoxx France**, une pré-sélection sous la forme d'un mini-concours qui consiste à nous envoyer un petit bout de code.
 
