@@ -1,10 +1,7 @@
 ---
 layout: post
-title: FooBarQix code selection exercise
+title: Premier exercice de sélection, FooBarQix
 ---
-
-We want you to do FooBarQix
-===========================
 
 Ecrivez un programme qui affiche les nombres de 1 à 100. Un nombre par ligne. Respectez les règles suivantes :
 
@@ -28,22 +25,21 @@ Voici un exemple de rendu
 	Bar
 	...
 	
-	Par exemple, 13 contient 3 donc s'écrit "Foo"
-	Par exemple, 15 est divisible par 3 et 5 et contient un 5 donc s'écrit "FooBarBar"
-	Par exemple, 33 contient deux fois 3  et est divisible par 3 donc s'écrit "FooFooFoo"
-	
-Mise à jour : Clarifications sur les règles
+Mise à jour : clarifications sur les règles
 ===========================================
 
  * On regarde les diviseurs avant le contenu (ex: 51 -> FooBar)
  * On regarde le contenu dans l'ordre où il apparait (ex: 53 -> BarFoo)
  * On regarde les multiples dans l'ordre Foo, Bar puis Qix (ex: 21 -> FooQix)
+ * 13 contient 3 donc s'écrit "Foo"
+ * 15 est divisible par 3 et 5 et contient un 5 donc s'écrit "FooBarBar"
+ * 33 contient deux fois 3  et est divisible par 3 donc s'écrit "FooFooFoo"
 
 A vous de jouer !
 =================
 
 Votre code doit tourner dans une JVM, si vous faites des trucs inhabituels, laissez nous des instructions pour faire tourner votre code. 
-Vous n'avez qu'a nous envoyer une URL pointant sur un dépôt github public contenant le code de FooBarQix et ajouter tout ce que vous voudriez nous dire sur votre code à [qualif@code-story.net](mailto:qualif@code-story.net) avant le 16 décembre 2011.
+Vous n'avez qu'à nous envoyer une URL pointant sur un dépôt github public contenant le code de FooBarQix et ajouter tout ce que vous voudriez nous dire sur votre code à [qualif@code-story.net](mailto:qualif@code-story.net) avant le 16 décembre 2011.
 
 Soyez inventif, pragmatique, écrivez du code formidable, impressionnez nous, montrez que vous voulez venir coder avec nous.
 
