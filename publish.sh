@@ -1,5 +1,5 @@
 #!/bin/bash
 
 rm -Rf _site
-jekyll
+jekyll --no-auto
 jekyll-s3
