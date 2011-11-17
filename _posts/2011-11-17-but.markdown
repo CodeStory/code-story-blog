@@ -15,7 +15,7 @@ Nous allons coder à Devoxx, une application en live, pendant 2 jours. L'idée e
 
  * TODO - Iterations
  * TODO - Binome
- * TODO - 
+ * TODO - Rich Display
  * TODO -
  * TODO - 
  * TODO - 
@@ -33,4 +33,4 @@ Pour trouver ce binôme nous avons lancé au moment de l'annonce de **Devoxx Fra
 
 Le deuxième tour de sélection aura lieu sous forme de démonstration live de code, avec un jury qui qualifiera la prestation.
 
-*David & Jean-Laurent*
+{% include sig.md %}

@@ -45,4 +45,4 @@ Soyez inventif, pragmatique, écrivez du code formidable, impressionnez nous, mo
 
 Nous sommes impatient de coder avec vous.
 
-*David & Jean-Laurent*
+{% include sig.md %}
