@@ -11,11 +11,11 @@ Commençons par la fin pour comprendre le but de notre démarche.
 
 # "Code Story" à Devoxx France
 
-Nous, [David](https://plus.google.com/100241047121875700803/about) et [Jean Laurent](https://plus.google.com/106566320836551483322/about), souhaitons coder à Devoxx France, une application en direct, en 2 jours. L'idée est de produire une application exceptionnelle tout en montrant à l'audience des techniques exceptionnelles. 
+Nous, [David](https://plus.google.com/100241047121875700803/about) et [Jean-Laurent](https://plus.google.com/106566320836551483322/about), souhaitons coder à Devoxx France, une application en direct, en 2 jours. L'idée est de produire une application exceptionnelle tout en montrant à l'audience des techniques exceptionnelles. 
 
 Nous pensons fragmenter la session en itérations d'une heure ou deux, avec un maximum de feedback visuel. Ainsi chaque participant pourra suivre et comprendre ce qui se passe sur le projet même s'il n'assiste qu'à une itération.
 
-La forme et le contenu exacts de cette session sont encore vagues. Cela va s'affiner dans le semaines qui viennent. 
+Nous avons déjà quelques idées sur les fonctionnalités de l'application à développer mais la forme et le contenu exacts de cette session sont encore vagues. Cela va s'affiner dans le semaines qui viennent.
 
 # Comment juger notre succès ?
 
