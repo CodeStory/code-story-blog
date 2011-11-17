@@ -39,17 +39,21 @@ em {
 	font-style: italic;
 }
 
+strong {
+	font-weight: bold;
+}
+
 h1 {
 	font-size: larger;
 	font-weight: bold;
 }
 
 h1,h3 {
-	margin: 1em 0 1em 1em;
+	margin: 1em 0 1em 0.8em;
 }
 
 #title, #post {
-	width: 600px;
+	width: 700px;
 	margin: 2em auto 0 auto;
 	border: solid 1px black;
 	background-color: white;
@@ -77,12 +81,11 @@ pre {
 	overflow: hidden;
 }
 
-
-
-
-
-
-
+img, a.index {
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
 
 
 

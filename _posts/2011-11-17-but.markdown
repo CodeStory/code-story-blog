@@ -3,6 +3,18 @@ layout: post
 title: Quel est le but de ce concours ?
 ---
 
+Notre projet **Code Story** va se dérouler en 3 phases : une phase de pré-sélection, une sélection, une session à Devoxx France.
+
+![Les 3 phases](/images/schema.png)
+
+Commençons par la phase finale pour bien comprendre le but de notre démarche.
+
+Session "Code Story" à Devoxx France
+====================================
+TODO
+
+Sélection et pré-sélection
+==========================
 TODO
 
 *David & Jean-Laurent*
