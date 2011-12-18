@@ -10,9 +10,6 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
-	line-height: 1;
-}
 ol, ul {
 	list-style: none;
 }
@@ -32,7 +29,8 @@ table {
 body {
 	color: #171717;
 	background-color: #F9F9F9;
-	font-family: sans-serif;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 300;
 }
 
 em {
@@ -57,6 +55,10 @@ h1,h3 {
 	margin: 2em auto 0 auto;
 	border: solid 1px black;
 	background-color: white;
+	
+	-moz-box-shadow: 5px 5px 5px #ccc;
+	-webkit-box-shadow: 5px 5px 5px #ccc;
+	box-shadow: 5px 5px 5px #ccc;
 }
 
 #post {
@@ -81,11 +83,16 @@ pre {
 	overflow: hidden;
 }
 
-img, a.index {
+img, a.index, #chart-0 {
 	margin: 0 auto;
 	display: block;
 	text-align: center;
 }
+
+a.index {
+	margin-bottom: 10px;
+}
+
 
 
 
