@@ -50,8 +50,8 @@ h1,h3 {
 	margin: 1em 0 1em 0.8em;
 }
 
-#title, #post {
-	width: 700px;
+#title, #post, #posts {
+	width: 650px;
 	margin: 2em auto 0 auto;
 	border: solid 1px black;
 	background-color: white;
@@ -61,7 +61,7 @@ h1,h3 {
 	box-shadow: 5px 5px 5px #ccc;
 }
 
-#post {
+#post, #posts {
 	margin-bottom: 3em;
 }
 
@@ -83,17 +83,23 @@ pre {
 	overflow: hidden;
 }
 
-img, a.index, #chart-0 {
+img, a.index {
 	margin: 0 auto;
 	display: block;
 	text-align: center;
+}
+
+#chart-0 {
+	margin-left: 85px;
 }
 
 a.index {
 	margin-bottom: 10px;
 }
 
-
+#posts img, #title img {
+	margin-top: 25px;
+}
 
 
 
