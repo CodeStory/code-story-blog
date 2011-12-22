@@ -9,7 +9,6 @@ Ecrivez un programme qui affiche les nombres de 1 à 100. Un nombre par ligne. R
  * Si le nombre est divisible par 5 ou contient 5, écrire "Bar" à la place de 5.
  * Si le nombre est divisible par 7 ou contient 7, écrire "Qix" à la place de 7.
 
-
 Voici un exemple de rendu
 =========================
 
@@ -44,5 +43,3 @@ Vous n'avez qu'à nous envoyer une URL pointant sur un dépôt github public con
 Soyez inventif, pragmatique, écrivez du code formidable, impressionnez nous, montrez que vous voulez venir coder avec nous.
 
 Nous sommes impatient de coder avec vous.
-
-{% include sig.md %}

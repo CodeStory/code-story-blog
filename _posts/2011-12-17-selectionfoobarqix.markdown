@@ -15,7 +15,6 @@ Une majorité de Java et pas mal de scala, la participation des autres langages 
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"dataSourceUrl":"//docs.google.com/a/morlhon.net/spreadsheet/tq?key=0Alr12p0nBBordEhMdnFiaVN6YWZZTVR6ZXFfUjhRUGc&transpose=0&headers=0&range=A5%3AB7&gid=1&pub=1","options":{"vAxes":[{"viewWindowMode":"pretty","viewWindow":{}},{"viewWindowMode":"pretty","viewWindow":{}}],"title":"Langages","backgroundColor":"#FFFFFF","legend":"right","colors":["#38761d","#f1c232","#cc0000","#3d85c6","#990099","#0099C6","#DD4477","#66AA00","#B82E2E","#316395","#994499","#22AA99","#AAAA11","#6633CC","#E67300","#8B0707","#651067","#329262","#5574A6","#3B3EAC","#B77322","#16D620","#B91383","#F4359E","#9C5935","#A9C413","#2A778D","#668D1C","#BEA413","#0C5922","#743411"],"is3D":true,"hasLabelsColumn":true,"hAxis":{"maxAlternations":1},"width":565,"height":376},"state":{},"view":"{\"columns\":[0,1]}","chartType":"PieChart","chartName":"Graphique 1"} </script>
 
-
 La genèse
 =========================
 
@@ -33,5 +32,3 @@ Dans les semaines à venir, nous publierons ce que nous avons aimé et ce que no
 Merci à vous tous, d'avoir participer avec une telle ferveur.
 
 Stay tuned pour la suite !
-
-{% include sig.md %}
