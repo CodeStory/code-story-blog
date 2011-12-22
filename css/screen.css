@@ -28,7 +28,7 @@ table {
 /* Custom Style */
 body {
 	color: #171717;
-	background-color: #F9F9F9;
+	background-color: rgb(46,52,54);
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-weight: 300;
 }
@@ -83,7 +83,7 @@ pre {
 	overflow: hidden;
 }
 
-img, a.index {
+img {
 	margin: 0 auto;
 	display: block;
 	text-align: center;
@@ -93,15 +93,9 @@ img, a.index {
 	margin-left: 85px;
 }
 
-a.index {
-	margin-bottom: 10px;
-}
-
 #posts img, #title img {
 	margin-top: 25px;
 }
-
-
 
 
 
