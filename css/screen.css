@@ -144,7 +144,11 @@ pre {
 	padding: 1em;
 	background: rgb(230,244,231);
 	border: 1px solid rgb(89,180,89);
-	overflow: scroll;
+	white-space: pre-wrap; /* CSS3 */
+	white-space: -moz-pre-wrap; /* Mozilla, post millennium */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	word-wrap: break-word; /* Internet Explorer 5.5+ */
 }
 
 img {
