@@ -15,40 +15,53 @@ TODO
 
 One-liner Scala
 
-	[[ for{i←1 to 100;m=(Seq(3,5,7).filter{i%_==0}++(Seq(i/10,i%10)collect{case c@(3|5|7)⇒c}))map{Map(3→"Foo",5→"Bar",7→"Qix")}}
+{% highlight scala %}
+[[ for{i←1 to 100;m=(Seq(3,5,7).filter{i%_==0}++(Seq(i/10,i%10)collect{case c@(3|5|7)⇒c}))map{Map(3→"Foo",5→"Bar",7→"Qix")}}
+{% endhighlight %}
 
 One-liner Ioke
 
-	(1..100)each(n,([3,5,7]map(d,(n%d)*8+d)+[n-(n%10)/10,n%10])map(d,case(d,3,"Foo",5,"Bar",7,"Qix",""))sum ?|n)println)
+{% highlight ruby %}
+(1..100)each(n,
+	([3,5,7]map(d,
+		(n%d)*8+d)+[n-(n%10)/10,n%10])map(d,
+			case(d,3,"Foo",5,"Bar",7,"Qix","")
+		)sum ?|n
+	)println
+)
+{% endhighlight %}
 	
 Ruby plutôt clair
 
-	class Foo
-	  EQ = {
-	    3 => "Foo",
-	    5 => "Bar",
-	    7 => "Qix"
-	  }
+{% highlight ruby %}
+class Foo
+  EQ = {
+    3 => "Foo",
+    5 => "Bar",
+    7 => "Qix"
+  }
 
-	  def self.eval(i)
-	    retour = divisible_ou_contient_un_chiffre(i)
-	    retour != "" ? retour : i.to_s
-	  end
+  def self.eval(i)
+    retour = divisible_ou_contient_un_chiffre(i)
+    retour != "" ? retour : i.to_s
+  end
 
-	  def self.divisible_ou_contient_un_chiffre(i)
-	    listes_des_diviseurs(i).join("") \
-	    + lettres(i).map { |lettre| symbol_equivalent(lettre) }.join("")
-	  end
+  def self.divisible_ou_contient_un_chiffre(i)
+    listes_des_diviseurs(i).join("") \
+    + lettres(i).map { |lettre| symbol_equivalent(lettre) }.join("")
+  end
 
-	  def self.listes_des_diviseurs(i)
-	    EQ.select { |k| i % k == 0 }.values
-	  end
+  def self.listes_des_diviseurs(i)
+    EQ.select { |k| i % k == 0 }.values
+  end
 
-	  def self.lettres(i)
-	    i.to_s.split("")
-	  end
+  def self.lettres(i)
+    i.to_s.split("")
+  end
 
-	  def self.symbol_equivalent(lettre)
-	    EQ[lettre.to_i]
-	  end
-	end
+  def self.symbol_equivalent(lettre)
+    EQ[lettre.to_i]
+  end
+end
+{% endhighlight %}
+	
