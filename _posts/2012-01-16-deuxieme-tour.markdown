@@ -30,7 +30,7 @@ En voici les règles :
  * Pour encore plus de fun, le public pourra proposer ses propres règles
  * Pendant qu'ils codent, et expliquent ce qu'ils font, un jury implacable commentera et jugera leurs mouvements, buzzer à la main.
  * Avant le buffet, un binôme buzzé passe le relais.
- * Après le buffer, le buzzer est éliminatoire.
+ * Après le buffet, le buzzer est éliminatoire.
  * Le binôme survivant participera à Devoxx France.
  * En cas d'égalité, c'est le public qui trancera à l'applaudimètre
 
