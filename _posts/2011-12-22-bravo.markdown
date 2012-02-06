@@ -22,7 +22,7 @@ for{i<-1 to 100;m=(Seq(3,5,7).filter{i%_==0}++(Seq(i/10,i%10)collect{case c@(3|5
 (1..100)each(n,([3,5,7]map(d,(n%d)*8+d)+[n-(n%10)/10,n%10])map(d,case(d,3,"Foo",5,"Bar",7,"Qix",""))sum ?|n)println)
 {% endhighlight %}
 	
-*En Ruby (137 caractères)*
+*En Groovy (137 caractères)*
 
 {% highlight ruby %}
 j=['3':'Foo','5':'Bar','7':'Qix']
