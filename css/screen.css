@@ -110,7 +110,11 @@ h1 {
 	font-weight: bold;
 }
 
-h1,h3 {
+h2 {
+	font-weight: bold;
+}
+
+h1,h2,h3 {
 	margin: 1em 0 1em 0.8em;
 }
 
