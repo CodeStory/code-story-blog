@@ -8,7 +8,7 @@ David et moi même avons acceuillis 14 binomes particulierement motivés.
 6 personnes venant de Suisse, 4 du Luxembourg et 18 de France (essentiellement de région Parisienne).
 
 Nous avions préparé pour nous les organisateurs une paire de tshirt CodeStory histoire de mettre tout le monde dans l'ambiance.
-Mais plusieurs binomes avaient, eux aussi, préparé des tshirts assez élaborée. Bravo encore à vous pour votre préparation.
+Mais plusieurs binomes avaient, eux aussi, préparé des tshirts assez élaborés. Bravo encore à vous pour votre préparation.
 
 ![tshirt1](/images/tshirt2.jpeg)
 
@@ -19,10 +19,9 @@ Aprés les encouragements de notre guest star du soir, à savoir Nicolas Martign
 L'exercice
 ===========
 
-L'exercice de la soirée consistait à hériter d'un bout de code particulierement atroce, d'ajouter une nouvelle fonction dans celui ci puis de présenter le tout dans une webapp le tout en 2 heures, compréhension de l'exercice compris !
+L'exercice de la soirée consistait à hériter d'un bout de code particulierement atroce, d'ajouter une nouvelle fonction dans celui-ci puis de présenter le tout dans une webapp. Le tout en 2 heures, compréhension de l'exercice compris !
 
 L'exercice en question est un dérivé du kata de refactoring nommé GildedRose dont voici l'énoncé :
-
 
 Gilded Rose Kata
 -------------
@@ -64,24 +63,24 @@ Vous trouverez l'ensemble de l'exercice dans le dépot [github de codestory](htt
 
 Déroulé
 =========
-Sur un exercice de ce style, et vu le code absolument abominable que l'on récupère, ajouter du comportement dans le code sans un minimum de tests est un allez simple pour un crash en beauté. La pluspart des binomes l'ont compris assez vite en commencant à tisser un harnais de tests.
-Le harnais de tests permets, dans cet exercice, de mieux comprendre le fonctionnement du systeme et de rentrer dans l'exercice progressivement sans forcement tout avoir à comprendre d'un coup.
-Une fois ce harnais de tests plus ou moins constitué, vient la phase de refactoring de la méthode updateQuality de la classe Inn, afin de simplifier un peu ces imbrications impossibles de if.
-Certains binomes ont cherché à pousser trés loin ce refactoring, qui n'a rien d'un refactoring facile. D'autres on simplement profité du harnais de tests pour ajouter la nouvelle fonctionalité en toute confiance.
+Sur un exercice de ce style, et vu le code absolument abominable que l'on récupère, ajouter du comportement dans le code sans un minimum de tests est un allez simple pour un crash en beauté. La plupart des binomes l'ont compris assez vite en commencant à tisser un harnais de tests.
+Le harnais de tests permet, dans cet exercice, de mieux comprendre le fonctionnement du système et de rentrer dans l'exercice progressivement sans forcément tout avoir à comprendre d'un coup.
+Une fois ce harnais de tests plus ou moins constitué, vient la phase de refactoring de la méthode **updateQuality** de la classe **Inn**, afin de simplifier un peu ces imbrications impossibles de if.
+Certains binomes ont cherché à pousser très loin le refactoring, qui n'a rien d'un refactoring facile. D'autres on simplement profité du harnais de tests pour ajouter la nouvelle fonctionnalité en toute confiance.
 
 ![tshirt2](/images/tshirt1.jpeg)
 
-L'exercice étant limité à 2 heures, certains ont du se résoudre soit à finir le refactoring pour présenter le code le plus propre possible, soit à démarrer la webapp. Certains ont choisi la premiere voie, d'autre la seconde parfois dans les dernieres 10 minutes, sans un certain stress...
+L'exercice étant limité à 2 heures, certains ont du se résoudre soit à finir le refactoring pour présenter le code le plus propre possible, soit à démarrer la webapp. Certains ont choisi la première voie, d'autre la seconde. Parfois dans les dernieres 10 minutes, non sans un certain stress...
 
-A la fin du temps imparti nous avions 6 binomes ayant partiellement refactoré la méthode UpdateQuality (pour certain c'était vraiment super léger...), ajouté un harnais de tests sur la classe Inn et présenté le tout dans une WebApp.
+A la fin du temps imparti nous avions 6 binomes ayant partiellement refactoré la méthode **UpdateQuality** (pour certain c'était vraiment super léger...), ajouté un harnais de tests sur la classe **Inn** et présenté le tout dans une WebApp.
 
 Nous avons eu droit, a une servlet, du SpringMVC, du Simple et même du Play!, le tout parfois agrémenté de css maison voir de Twitter BootStrap pour les plus webaware d'entre eux.
 
 Conclusion
 =========
-Nous avons selectioné 5 binomes en partant du principe que ce que nous voulions c'est l'ensemble des fonctionalités. A savoir une webapp avec des objets "conjured" fonctionelle et le code le plus propre possible. Dans cet ordre.
+Nous avons selectionné 5 binomes en partant du principe que ce que nous voulions c'est l'ensemble des fonctionnalités. A savoir une webapp avec des objets "conjured" fonctionelle et le code le plus propre possible. Dans cet ordre.
 
 Vous trouverez la solution [propre](https://github.com/dgageot/CodeStoryStep2/tree/David) et moins [propre](https://gist.github.com/1782268) de David et de [Jean-Laurent](https://github.com/jeanlaurent/CodeStoryStep2) si vous voulez voir à quoi nous sommes arrivé, dans sensiblement les mêmes conditions que les binomes.
 
-Rendez-vous le 14 février [au Paris JUG](http://www.parisjug.org/xwiki/bin/view/Meeting/20120214) pour l'election du top binome qui partira faire des etincelles à Devoxx.
+Rendez-vous le 14 février [au Paris JUG](http://www.parisjug.org/xwiki/bin/view/Meeting/20120214) pour l'élection du top binome qui partira faire des étincelles à Devoxx.
 
