@@ -29,12 +29,47 @@ Aprés une courte présentation pour rappel à tous ceux qui ne connaisse pas en
     #4 Afficher l'encours de compte sur la console
     #5 Filtrer la liste d'encours en fonction d'une période de temps et d'un montant (moins/plus) que ce montant)
     
-Cet exercice est dérivé d'un kata nommé [OOBank](https://github.com/xebia-france/oobank-kata)[], que nous utilisons de temps en temps à Xebia pour illustrer OOD et DDD.
+Cet exercice est dérivé d'un kata nommé [OOBank](https://github.com/xebia-france/oobank-kata)[], que nous utilisons de temps en temps à Xebia pour illustrer [OOD](http://c2.com/cgi/wiki?PrinciplesOfObjectOrientedDesign) et (DDD)[http://c2.com/cgi/wiki?DomainDrivenDesign].
 
 Le binome constitué de Florent Biville & Pierre-Yves Ricau ont démarré la session.
 
 ![piwai](/images/piwai.jpeg)
 
-Ils ont été remplacé par Jean-Baptiste Lievremont & Nicolas Peru qui ont fait le déplacement depuis la Suisse.
+5 minutes plus tard, ils ont été remplacé par Jean-Baptiste Lievremont & Nicolas Peru qui ont fait le déplacement depuis la Suisse.
 
-![piwai](/images/swissguys.jpeg)
+![swiss](/images/swissguys.jpeg)
+
+Fabrice Croiseaux & Antoine Detante venant du Luxembourg, avec des polos CodeStory bien réussis, ont pris leur place en introduisant un objet qui va dérouter les binomes suivants.
+
+![lux](/images/fabrice.jpeg)
+
+Guillaume Tardif & Frédéric Fallière ont eu du mal à se dépatouiller du code de leur prédécesseur.
+
+![gui](/images/guillaume.jpeg)
+
+Pour finir le dernier binome, constitué d'Eric & Sebastien Lemerdy arborant des casquettes de Mario & Luigi.
+
+![twin](/images/twin.jpeg)
+
+Aprés la pause, le jury a été en droit d'éliminer les binomes les plus "ennuyeux". Etant donné la pression assez forte de ce live coding en public, David & Jean-Laurent se sont prété au jeu et on un peu nettoyé le code des binomes, non sans se prendre quelques railleries bien méritées.
+
+Le premier binome à se faire éliminer en tentant d'introduire une notion d'opération a été nos amis suisse, malgré les [menaces](https://twitter.com/#!/GenevaJUG/status/169528342876389376), le jury à bien tenu. A suivi le binome enmené par Guillaume Tardif puis par celui de Pierre-Yves.
+
+
+Le jury, emené par Nicolas Martignole, a proposé de repeché un des 3 groupes via twitter. Sans equivoques, le binomes de Pierre-Yves a été repeché.
+
+
+Quelques iterations aprés, nous avons atteint le temps imparti. Nous avons demandés aux membres du jury de voter pour l'un des 3 binomes restant.
+
+![finalcountdown](/images/finalcountdown.jpeg)
+
+Et les gagnants sont Eric & Sebastien Lemerdy, posant fierement avec les organisateurs.
+
+![winners](/images/winners.jpeg)
+
+C'était un exercice particulierement difficile, coder en live devant 180 personnes, sur du code que vous n'avez pas écrit pour une durée de 5 minutes...
+
+Le jury a été juste et impartial et nous avons hate de vous dévoiler le reste de l'aventure codestory que nous allons maintenant preparer à 4.
+
+
+
