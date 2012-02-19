@@ -29,7 +29,7 @@ Aprés une courte présentation pour rappel à tous ceux qui ne connaisse pas en
     #4 Afficher l'encours de compte sur la console
     #5 Filtrer la liste d'encours en fonction d'une période de temps et d'un montant (moins/plus) que ce montant)
     
-Cet exercice est dérivé d'un kata nommé [OOBank](https://github.com/xebia-france/oobank-kata)[], que nous utilisons de temps en temps à Xebia pour illustrer [OOD](http://c2.com/cgi/wiki?PrinciplesOfObjectOrientedDesign) et (DDD)[http://c2.com/cgi/wiki?DomainDrivenDesign].
+Cet exercice est dérivé d'un kata nommé [OOBank](https://github.com/xebia-france/oobank-kata), que nous utilisons de temps en temps à Xebia pour illustrer [OOD](http://c2.com/cgi/wiki?PrinciplesOfObjectOrientedDesign) et [DDD](http://c2.com/cgi/wiki?DomainDrivenDesign).
 
 Le binome constitué de Florent Biville & Pierre-Yves Ricau a démarré la session.
 
