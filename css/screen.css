@@ -178,3 +178,11 @@ div.plusone {
 	margin: 0 auto 20px auto;
 	text-align: center;
 }
+
+#disqus_thread {
+  margin: 1em ;
+}
+
+#disqus_thread>a {
+  font-size: 80%;
+}
