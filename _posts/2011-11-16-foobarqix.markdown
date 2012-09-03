@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Premier exercice de sélection, FooBarQix
+lang: français
+badge: binary
 ---
 
 Ecrivez un programme qui affiche les nombres de 1 à 100. Un nombre par ligne. Respectez les règles suivantes :

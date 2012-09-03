@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Bravo aux participants du premier tour
+lang: français
+badge: fatty
 ---
 
 Waouh ! Une soixantaine de soumissions. Autant de projets à lire, parfois à décrypter et finalement à juger. Au fil de nos lectures, nous vous avons concocté un petit florilège.

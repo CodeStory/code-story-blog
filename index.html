@@ -2,11 +2,35 @@
 layout: default
 title: Home
 ---
+<h2>The Team</h2>
 
-<div id="posts">
-	<a href="/index.html" title="Index Code Story"><img class="logo" src="/images/logo.png" alt="Code Story Blog" width="596" height="202" /></a>	
-	<h1>Articles</h1>
+<div id="articles">
 	{% for post in site.posts %}
-	<p><span>{{ post.date | date: "%d/%m/%Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></p>
+	<div class="article">
+		<a href="{{ post.url }}"><img class="icon" src="images/badges/{{ post.badge  }}.png"/></a>
+		<div class="description">
+			<div class="date">{{ post.date | date: "%d/%m/%Y" }}</div>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</div>
+	</div>
 	{% endfor %}
+</div>
+
+<div id="about">
+	<div class="badge">
+		<p>David</p>
+		<a href="https://plus.google.com/100241047121875700803/posts"><img class="portrait" src="http://gravatar.com/avatar/f0887bf6175ba40dca795eb37883a8cf"></a>
+	</div>
+	<div class="badge">
+		<p>Eric</p>
+		<a href="https://plus.google.com/101136081846307142330/posts"><img class="portrait" src="http://gravatar.com/avatar/ca7b980dd681923cf42c2b93b45baf8d"></a>
+	</div>
+	<div class="badge">
+		<p>Jean-Laurent</p>
+		<a href="https://plus.google.com/104208514956133087454/posts"><img class="portrait" src="http://gravatar.com/avatar/649d3668d3ba68e75a3441dec9eac26e"></a>
+	</div>
+	<div class="badge">
+		<p>Sebastian</p>
+		<a href="https://plus.google.com/112425363559249858356/posts"><img class="portrait" src="http://gravatar.com/avatar/492d722c2d77a5816f0e600bd2c3a9f5"></a>
+	</div>
 </div>

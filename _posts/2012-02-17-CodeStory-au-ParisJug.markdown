@@ -1,6 +1,8 @@
 ---
 layout: post
 title: CodeStory @ ParisJUG
+lang: français
+badge: phantom
 ---
 
 Nous avons convié nos 5 binômes au ParisJUG, qui nous a fait l'honneur de recevoir cette dernière étape de sélection pour CodeStory.

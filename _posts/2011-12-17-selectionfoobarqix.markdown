@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Sélection FooBarQix
+lang: français
+badge: top
 ---
 
 Hier était la date de fin de soumission pour la sélection pour participer à CodeStory, le live coding que nous souhaitons organiser dans le cadre de [Devoxx France](http://devoxx.com/display/FR12) du 18 au 20 avril 2012.

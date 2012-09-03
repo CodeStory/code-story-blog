@@ -1,13 +1,18 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-	<head>
-		<title>Code Story - {{ page.title }}</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
-		<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+<!DOCTYPE html>
+<html lang=en>
+	<meta charset=utf-8>
+	<title>Code Story - {{ page.title }}</title>
+	<link type='image/png' rel='shortcut icon' href='fusee-16x16.png'/>
+	<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+	<link type='text/css' rel='stylesheet' href='http://fonts.googleapis.com/css?family=Oxygen'>
     <link rel="alternate" type="application/atom+xml" title="CodeStory Atom Feed" href="http://code-story.net/atom.xml" />
 	<body>
-		{{ content }}
+		<div id="header">
+			<a href="/index.html"></a>
+		</div>
+		<div id="main">
+			{{ content }}
+		</div>
 	</body>
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -20,4 +25,6 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<script src="js/jquery.js"></script>
+<script src="js/codestory.js"></script>
 </html>

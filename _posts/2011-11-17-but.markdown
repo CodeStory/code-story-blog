@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Quel est le but de ce concours ?
+lang: français
+badge: top
 ---
 
 Notre projet **Code Story** va se dérouler en 3 phases : une pré-sélection, une sélection, une session à **Devoxx France**.

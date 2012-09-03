@@ -1,6 +1,8 @@
 ---
 layout: post
 title: GildedRose WebStyle
+lang: français
+badge: binary
 ---
 
 Le second tour de codestory qui a eu lieu le 1er février dernier a été une soirée haute en couleurs.

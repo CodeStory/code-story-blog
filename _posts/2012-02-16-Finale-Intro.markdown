@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Introduction à la finale
+lang: français
+badge: build-braker
 ---
 
 Voici les slides d'introduction à la finale de la sélection Code Story au Paris JUG :
