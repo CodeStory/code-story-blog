@@ -17,4 +17,4 @@ We’ll breakdown the show in one hour long sessions, using visual feedback tool
 
 Can't wait to meeting you there, and stay tune for the preparation of the show might keep you interested too!
 
-Photo: [Arnaud Héritier](https://plus.google.com/u/0/105461265446151835406/about)
+Photo: [Arnaud Héritier](https://plus.google.com/u/0/105461265446151835406/photos) and [Pierre-Antoine Grégoire](https://plus.google.com/118041907032714528693/photos)
