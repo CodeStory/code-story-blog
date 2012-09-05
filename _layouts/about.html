@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
+
+<h2>About: {{ page.title }}</h2>
+
+<div id="bio" style="background: url('../images/{{ page.background }}') no-repeat;">
+	{{ content }}
+
+	<div id="social">
+		<a href="{{ page.blog_url }}"><img width="32" height="32" src="/images/rss.png" alt="Read my blog" /></a>
+		<a href="http://www.twitter.com/{{ page.twitter }}"><img width="32" height="32" src="/images/twitter.png" alt="Follow {{ page.twitter }} on Twitter" /></a>
+		<a href="http://linkedin.com/{{ page.linkedin }}"><img src="/images//in.png" width="32" height="32" alt="View {{ page.title }}'s profile on LinkedIn" /></a>
+	</div>
+</div>

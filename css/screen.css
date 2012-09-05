@@ -86,10 +86,11 @@ body {
 }
 #header {
 	position: fixed;
-	height: 250px;
+	height: 230px;
 	background: url('../images/header.png') no-repeat, -webkit-gradient(linear, left top, left bottom, from(#000000), to(rgba(0, 0, 0, 0))) no-repeat;
 	background: url('../images/header.png') no-repeat, -moz-linear-gradient(top, #000000, rgba(0, 0, 0, 0)) no-repeat;
 	width: 100%;
+	z-index: 9998;
 }
 #main {
 	width: 1020px;
@@ -202,6 +203,8 @@ h2 {
 	background: url('../images/badges-background.png') repeat-y center;
 	min-height: 2000px;
 	border-radius: 10px;
+	padding-top: 20px;
+	z-index: 9999;
 }
 .badge {
 	height: 100px;
@@ -212,9 +215,27 @@ h2 {
 }
 .badge p {
 	color: white;
-	text-transform: uppercase;
 	font-size: small;
-	width: 130px;
+	width: 113px;
 	text-align: right;
-	margin: 25px 15px 0 0;
+	margin: 35px 15px 0 0;
+}
+#bio {
+	width: 1024px;
+	height: 640px;
+	position: absolute; 
+	left: 50%; 
+	top: 50%;
+	margin: -230px 0 0 -512px;
+	border: solid 1px rgb(100,100,100);
+}
+
+#bio p, #social {
+	margin: 40px 520px 0 50px;
+	font-family: 'Lato', sans-serif;
+	text-align: justify;
+	font-size: larger;
+}
+#bio a {
+	color: rgb(115,230,0);
 }
