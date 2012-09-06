@@ -7,7 +7,7 @@ twitter: morlhon
 linkedin: in/morlhon
 ---
 
-[Jean-Laurent de Morlhon](http://twitter.com/dgageot), is CTO at [Xebia Studio](http://studio.xebia.fr), has founded [Serpodile](http://serpodile.com) to help all the kids write easily, and an happy father of 4 kids, I write software for almost 15 years.
+[Jean-Laurent de Morlhon](https://twitter.com/morlhon), is CTO at [Xebia Studio](http://studio.xebia.fr), has founded [Serpodile](http://serpodile.com) to help all the kids write easily, and an happy father of 4 kids, I write software for almost 15 years.
 
 I love the act of writing software transforming an vague idea from the mind of someone, into a helpful software which actually really help.
 
