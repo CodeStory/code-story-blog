@@ -7,10 +7,10 @@ twitter: ericlemerdy
 linkedin: pub/eric-le-merdy/4/70/bb6
 ---
 
-Eric is especially happy when he codes.
+[Eric](http://twitter.com/ericlemerdy) is especially happy when he codes.
 
-Breed by agile spirit, he enjoys to belong to a cool team to code with and share its happiness. In addition to his interest for practicing the art of programming, he likes theory also. 'Lean' satisfies his sympathy for both japanese culture and people empowering models that work.
+Led by Agile spirit, he enjoys belonging to a cool code team and sharing its happiness. In addition to his interest for practicing the art of programming, he also likes theory. Lean Software Developement satisfies his interest for both japanese culture and people empowering models that work.
 
-Inspired by agile methodologies, he tries to remove a feature every day and evict legacy from this world (legacy being code that could have been written the day before by himself).
+Inspired by Software Craftsmanship, he tries to remove a feature every day and evict legacy from this world (legacy being code that could have been written the day before by himself).
 
-He is a happy member of Valtech Technology Paris.
+He is a happy member of [Valtech Technology Paris](http://blog.valtech.fr).
