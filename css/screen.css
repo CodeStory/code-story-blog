@@ -93,7 +93,7 @@ body {
 	z-index: 9998;
 }
 #main {
-	width: 1020px;
+	width: 800px;
 	margin: 0 auto;
 	min-height: 1020px;
 	padding-top: 250px;
@@ -142,10 +142,6 @@ body {
 }
 .article:nth-child(even) .date, .article:nth-child(even) a {
 	margin-left: 8px;
-}
-#main {
-	align: center;
-	width: 800px;
 }
 #post {
 	background-color: white;
@@ -225,7 +221,7 @@ h2 {
 	height: 640px;
 	position: absolute; 
 	left: 50%; 
-	top: 50%;
+	top: 430px;
 	margin: -230px 0 0 -512px;
 	border: solid 1px rgb(100,100,100);
 }
