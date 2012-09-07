@@ -3,6 +3,7 @@ layout: post
 title: C'est parti pour le deuxième tour
 lang: français
 badge: top
+category: post
 ---
 
 Souvenez-vous, le mois dernier, près de soixantes développeurs passionnés avaient participé au [premier tour](/2011/12/22/bravo.html) de sélection de CodeStory. En ligne de mire, une participation à [Devoxx France](http://www.devoxx.fr/display/FR12/Accueil) pour deux jours de folie pendant lesquels nous allons coder, en direct, une application à huit mains (Car oui, deux binômes, ça fait huit mains).

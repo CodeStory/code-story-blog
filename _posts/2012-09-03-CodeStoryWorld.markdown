@@ -3,6 +3,7 @@ layout: post
 title: CodeStory at Devoxx World, November 14-15
 lang: english
 badge: masque
+category: post
 ---
 
 Last year, at Devoxx France, the CodeStory Team live-coded an [application](http://prod.code-story.net/index.html) from scratch, in front of the audience. (Parleys in french, [here](http://www.parleys.com/#st=5&id=3174&sl=0) and [here](http://www.parleys.com/#st=5&id=3179&sl=0))

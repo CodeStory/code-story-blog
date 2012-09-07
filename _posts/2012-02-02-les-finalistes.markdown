@@ -3,6 +3,7 @@ layout: post
 title: Et les finalistes sont...
 lang: français
 badge: top
+category: post
 ---
 
 Merci à tous les participants du deuxième tour de Code Story. Ce fut une soirée vraiment sympa !

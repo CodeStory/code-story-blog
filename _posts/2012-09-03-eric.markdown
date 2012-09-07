@@ -1,10 +1,13 @@
 ---
+permalink: /about/eric.html
 layout: about
 title: Eric
+gravatar: 77da98419ae312eb0e322a3dac44a734
 background: about_eric.jpg
 blog_url: http://eric.lemerdy.free.fr/dotclear/index.php
 twitter: ericlemerdy
 linkedin: pub/eric-le-merdy/4/70/bb6
+category: about
 ---
 
 [Eric](http://twitter.com/ericlemerdy) is especially happy when he codes.

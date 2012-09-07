@@ -1,10 +1,13 @@
 ---
+permalink: /about/jean-laurent.html
 layout: about
 title: Jean-Laurent
+gravatar: 649d3668d3ba68e75a3441dec9eac26e
 background: about_jean-laurent.jpg
 blog_url: http://morlhon.net/blog/
 twitter: morlhon
 linkedin: in/morlhon
+category: about
 ---
 
 [Jean-Laurent de Morlhon](http://twitter.com/morlhon), I'm CTO at [Xebia Studio](http://studio.xebia.fr), have founded [Serpodile](http://serpodile.com) to help all the kids write easily and am an happy father of 4 kids. I write software for almost 15 years.

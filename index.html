@@ -5,7 +5,7 @@ title: Home
 <h2>The Team</h2>
 
 <div id="articles">
-	{% for post in site.posts %}
+	{% for post in site.categories.post %}
 	<div class="article">
 		<a href="{{ post.url }}"><img class="icon" src="images/badges/{{ post.badge  }}.png"/></a>
 		<div class="description">
@@ -17,20 +17,10 @@ title: Home
 </div>
 
 <div id="about">
+	{% for post in site.categories.about reversed %}
 	<div class="badge">
-		<p>David</p>
-		<a href="/about/david.html"><img class="portrait" src="http://gravatar.com/avatar/f0887bf6175ba40dca795eb37883a8cf"></a>
+		<p>{{ post.title }}</p>
+		<a href="{{ post.url }}"><img class="portrait" src="http://gravatar.com/avatar/{{ post.gravatar }}"></a>
 	</div>
-	<div class="badge">
-		<p>Eric</p>
-		<a href="/about/eric.html"><img class="portrait" src="http://gravatar.com/avatar/77da98419ae312eb0e322a3dac44a734"></a>
-	</div>
-	<div class="badge">
-		<p>Jean-Laurent</p>
-		<a href="/about/jean-laurent.html"><img class="portrait" src="http://gravatar.com/avatar/649d3668d3ba68e75a3441dec9eac26e"></a>
-	</div>
-	<div class="badge">
-		<p>S&eacute;bastian</p>
-		<a href="/about/sebastian.html"><img class="portrait" src="http://gravatar.com/avatar/492d722c2d77a5816f0e600bd2c3a9f5"></a>
-	</div>
+	{% endfor %}
 </div>

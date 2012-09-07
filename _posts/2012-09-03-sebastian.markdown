@@ -1,10 +1,13 @@
 ---
+permalink: /about/sebastian.html
 layout: about
 title: Sébastian
+gravatar: 492d722c2d77a5816f0e600bd2c3a9f5
 background: about_sebastian.jpg
 blog_url: http://sebastian.lemerdy.free.fr
 twitter: seblm
 linkedin: pub/sébastian-le-merdy/4/26/2a0
+category: about
 ---
 
 Sébastian likes Software Development Done Right.
