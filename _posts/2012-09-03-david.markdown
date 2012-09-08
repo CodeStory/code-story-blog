@@ -16,6 +16,6 @@ My passion&nbsp;? Writing complex yet simple software. Trying to be a facilitato
 
 I started coding with Logo 28 years ago. I've been participating to Java projets since 1995, as [Adesoft](http://fr.adesoft.com/)'s R&amp;D leader, as Java and Agile consultant at [Valtech](http://www.valtech.fr/fr/index/it.html) and then CTO at [Algodeal](http://blog.javabien.net/?s=algodeal), a hedge fund.
 
-In 2010, I took the leadership on open-sourced [Infinitest](http://infinitest.github.com). An Eclipse and IntelliJ plugin that runs unit tests as soon as changes are made in the source code. Infinitest is the dream come true for TDD addicts because it dramatically reduces feedback loops.
+In 2010, I took the leadership on open-sourced [Infinitest](http://infinitest.github.com). An Eclipse and IntelliJ plugin that runs unit tests as soon as changes are made to the source code. Infinitest is the dream come true for TDD addicts because it dramatically reduces feedback loops.
 
 You might be a reader of my blog [JavaBien!](http://javabien.net/) since 2004.
