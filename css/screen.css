@@ -178,7 +178,7 @@ pre {
 	word-wrap: break-word; /* Internet Explorer 5.5+ */
 }
 
-h2 {
+h2.bookmark {
 	position: fixed;
 	right: 40px;
 	width: 300px;
