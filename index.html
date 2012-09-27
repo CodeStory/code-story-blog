@@ -19,8 +19,9 @@ title: Home
 <div id="about">
 	{% for post in site.categories.about reversed %}
 	<div class="badge">
-		<p>{{ post.title }}</p>
 		<a href="{{ post.url }}"><img class="portrait" src="http://gravatar.com/avatar/{{ post.gravatar }}?s=160"></a>
+		<p>{{ post.title }}</p>
 	</div>
 	{% endfor %}
 </div>
+

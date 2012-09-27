@@ -197,24 +197,25 @@ h2 {
 	width: 300px;
 	top: 150px;
 	background: url('../images/badges-background.png') repeat-y center;
-	min-height: 2000px;
 	border-radius: 10px;
 	padding-top: 20px;
+	height: 280px;
 	z-index: 9999;
 }
 .badge {
-	height: 100px;
-	padding-top: 20px;
-}
-.badge p, #badges .badge .portrait {
 	float: left;
+	width: 150px;
+	text-align: center;
+}
+.badge .portrait {
+	background-color: white;
 }
 .badge p {
 	color: white;
 	font-size: small;
-	width: 113px;
-	text-align: right;
-	margin: 35px 15px 0 0;
+	width: 150px;
+	text-align: center;
+	margin: 5px 0 30px 0;
 }
 #bio {
 	width: 1024px;
