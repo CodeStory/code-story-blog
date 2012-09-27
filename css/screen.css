@@ -189,10 +189,7 @@ h2 {
 	text-align: center;
 	background: url('../images/project-background.png') no-repeat center;
 	z-index: 9999;
-}
-
-#about h2 {
-	top: 0px;
+    top: 0px;
 }
 
 #application  h2{
