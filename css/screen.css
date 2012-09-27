@@ -180,7 +180,6 @@ pre {
 
 h2 {
 	position: fixed;
-	top: 0px;
 	right: 40px;
 	width: 300px;
 	height: 77px;
@@ -191,17 +190,34 @@ h2 {
 	background: url('../images/project-background.png') no-repeat center;
 	z-index: 9999;
 }
-#about {
+
+#about h2 {
+	top: 0px;
+}
+
+#application  h2{
+	top: 550px;
+}
+
+#about, #application {
 	position: fixed;
 	right: 40px;
 	width: 300px;
-	top: 150px;
 	background: url('../images/badges-background.png') repeat-y center;
 	border-radius: 10px;
 	padding-top: 20px;
 	height: 280px;
 	z-index: 9999;
 }
+
+#about {
+	top: 100px;
+}
+
+#application {
+	top: 650px;
+}
+
 .badge {
 	float: left;
 	width: 150px;

@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-<h2>The Team</h2>
 
 <div id="articles">
 	{% for post in site.categories.post %}
@@ -17,6 +16,8 @@ title: Home
 </div>
 
 <div id="about">
+	<h2>The Team</h2>
+
 	{% for post in site.categories.about reversed %}
 	<div class="badge">
 		<a href="{{ post.url }}"><img class="portrait" src="http://gravatar.com/avatar/{{ post.gravatar }}?s=160"></a>
@@ -25,3 +26,7 @@ title: Home
 	{% endfor %}
 </div>
 
+
+<div id="application">
+	<h2>The Application</h2>
+</div>
