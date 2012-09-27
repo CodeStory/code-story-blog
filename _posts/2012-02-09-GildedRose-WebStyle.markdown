@@ -61,8 +61,8 @@ We have recently signed a supplier of conjured items. This requires an update to
 * “Conjured” items degrade in Quality twice as fast as normal items
 
 
-L'exercice est "livré" avec la classe [Inn](https://github.com/dgageot/CodeStoryStep2/blob/master/src/main/java/fr/xebia/katas/gildedrose/Inn.java) (qui a elle seule vaut le détour) et [Item](https://github.com/dgageot/CodeStoryStep2/blob/master/src/main/java/fr/xebia/katas/gildedrose/Item.java).
-Vous trouverez l'ensemble de l'exercice dans le dépot [github de codestory](https://github.com/dgageot/CodeStoryStep2)
+L'exercice est "livré" avec la classe [Inn](https://github.com/CodeStory/code-story-step2/blob/master/src/main/java/gildedrose/Inn.java) (qui a elle seule vaut le détour) et [Item](https://github.com/CodeStory/code-story-step2/blob/master/src/main/java/gildedrose/Item.java).
+Vous trouverez l'ensemble de l'exercice dans le dépot [github de codestory](https://github.com/CodeStory/code-story-step2)
 
 Déroulé
 =========
@@ -86,7 +86,7 @@ Conclusion
 Nous avons sélectionné 5 binômes en partant du principe que ce que nous voulions c'est l'ensemble des fonctionnalités. A savoir une webapp avec des objets "conjured" fonctionnelle et le code le plus propre possible. Dans cet ordre.
 
 
-Vous trouverez la solution [propre](https://github.com/dgageot/CodeStoryStep2/tree/David) et moins [propre](https://gist.github.com/1782268) de David et de [Jean-Laurent](https://github.com/jeanlaurent/CodeStoryStep2) si vous voulez voir à quoi nous sommes arrivé, dans sensiblement les mêmes conditions que les binômes.
+Vous trouverez la solution [propre](https://github.com/CodeStory/code-story-step2/commits/master) et [moins propre](https://github.com/CodeStory/code-story-step2/tree/Ugly) de David et de [Jean-Laurent](https://github.com/jeanlaurent/CodeStoryStep2) si vous voulez voir à quoi nous sommes arrivé, dans sensiblement les mêmes conditions que les binômes.
 
 
 Rendez-vous le 14 février [au Paris JUG](http://www.parisjug.org/xwiki/bin/view/Meeting/20120214) pour l'élection du top binôme qui partira faire des étincelles à Devoxx.
