@@ -97,7 +97,8 @@ body {
 	margin: 0 auto;
 	min-height: 1020px;
 	padding-top: 250px;
-	background: url('../images/ligne.png') repeat-y 348px;
+	padding-right: 340px;
+	background: url('../images/ligne.png') repeat-y 348px top;
 }
 #main #articles {
 	width: 700px;
@@ -143,6 +144,13 @@ body {
 .article:nth-child(even) .date, .article:nth-child(even) a {
 	margin-left: 8px;
 }
+#post_background {
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	background: url('../images/ligne.png') repeat-y 678px top;
+}
 #post {
 	background-color: white;
 	color: black;
@@ -150,6 +158,8 @@ body {
 	padding: 20px;
 	border-radius: 10px;
 	border: solid 2px rgb(7,34,47);
+	width: 800px;
+	margin: 0 auto;
 }
 #post img {
    display:block;
@@ -180,7 +190,7 @@ pre {
 
 h2.bookmark {
 	position: fixed;
-	right: 40px;
+	right: 20px;
 	width: 300px;
 	height: 77px;
 	line-height: 60px;
@@ -198,7 +208,7 @@ h2.bookmark {
 
 #about, #application {
 	position: fixed;
-	right: 40px;
+	right: 20px;
 	width: 300px;
 	background: url('../images/badges-background.png') repeat-y center;
 	border-radius: 10px;
