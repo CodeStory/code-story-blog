@@ -202,8 +202,11 @@ h2.bookmark {
     top: 0px;
 }
 
-#application  h2{
-	top: 550px;
+#application  h2 {
+	top: 500px;
+	height: 97px;
+	padding-top: 20px;
+	background: url('../images/arrow.png') no-repeat center;
 }
 
 #about, #application {
@@ -222,7 +225,7 @@ h2.bookmark {
 }
 
 #application {
-	top: 650px;
+	top: 635px;
 }
 
 .badge {
