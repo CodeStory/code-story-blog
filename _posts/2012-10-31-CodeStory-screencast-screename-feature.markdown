@@ -6,10 +6,10 @@ badge: binary
 category: post
 ---
 
-We have recently deployed a new [planning application](http://fight.code-story.net/planning.html) which allow users to
-star any [Devoxx World 2012](http://www.devoxx.com) talks they likes.
+We have recently deployed a new [planning application](http://fight.code-story.net/planning.html) which allows users to
+star any [Devoxx World 2012](http://www.devoxx.com) talks they like.
 
-Although all code of this application is available [from github](https://github.com/CodeStory/code-story-world), we
+Although the code of this application is available [on github](https://github.com/CodeStory/code-story-world), we
 think that a screencast may be useful to whet your appetite until
 [our live coding at Devoxx](http://devoxx.com/display/DV12/Code+Story).
 
