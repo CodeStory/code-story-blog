@@ -10,7 +10,7 @@ linkedin: in/davidgageot
 category: about
 ---
 
-Hi, my name is [David Gageot](http://twitter.com/dgageot), developer indépendant.
+Hi, my name is [David Gageot](http://twitter.com/dgageot), freelance developer.
 
 My passion&nbsp;? Writing complex yet simple software. Trying to be a facilitator helping teams being more innovative and more efficient, leveraging both my creativity and my expertise.
 
