@@ -1,0 +1,49 @@
+---
+layout: post
+title: Concours pour Devoxx France 2013
+lang: français
+badge: binary
+category: post
+---
+
+**CodeStory, c'est quoi déjà ?**
+
+CodeStory est un concours de code récurrent organisé par [David Gageot](http://code-story.net/about/david.html) et [Jean-Laurent de Morlhon](http://code-story.net/about/jean-laurent.html). L’année dernière, avant Devoxx France 2012, nous avons organisé un concours afin d’élire le binôme qui allait coder avec nous en live durant la conférence. Les gagnants, [Eric](http://code-story.net/about/eric.html) & [Sebastian](http://code-story.net/about/sebastian.html) Le Merdy, nous ont également accompagné à Devoxx World en novembre dernier.
+
+En 2013, Eric et Sébastian ont décidé de remettre leur titre en jeu ! Nous devons donc trouver un nouveau binôme de "challengers" qui les affronteront. 
+
+**Le concours 2013**
+
+Le concours pour sélectionner ces "challengers" se déroulera en trois phases :
+
+ * Une phase de pré-selection commençant maintenant et se terminant fin janvier.
+ * Une seconde phase courant février. Les concurrents qui auront passé la première phase, seront invités à coder en live avec nous, sur Paris, pendant une soirée. A l’issue de cette soirée, nous choisirons le binôme de "challengers" !
+ * Le grand final aura lieu à Devoxx France, du 27 au 29 Mars 2013. Lors de cette finale, nous confronterons les 2 binômes. (Sous réserve de confirmation par l’équipe d’organisation de Devoxx !)
+
+**Comment va se dérouler la phase de pré-sélection ?**
+
+Chaque développeur souhaitant participer doit se faire connaitre sur [ce formulaire](https://docs.google.com/spreadsheet/viewform?formkey=dDdHc3N2V2R1bHRMZHFmOGk3SWZKTmc6MQ#gid=0). Il devra également installer un serveur web public qui lui servira pour participer. Le principe est simple: L’équipe de CodeStory va poser une question au serveur de chaque participant au travers d’une requête http GET. Chaque serveur doit répondre à cette question avant de passer à la question suivante. En cas de mauvaise réponse, la question sera répétées régulièrement jusqu’à ce qu’une bonne réponse soit fournie. La réponse doit être fournie dans le body de la réponse de la requête http.
+
+La première question est simple. L’url `http://(serveur)/?q=Quelle+est+ton+adresse+email` de votre serveur doit répondre par un document ne contenant que votre adresse email.
+
+	curl http://foobar.com:9090/?q=Quelle+est+ton+adresse+email
+	> GET / HTTP/1.1
+	> User-Agent: curl/7.24.0
+	> Host: foobar.com
+	> Accept: */*
+	> 
+	< HTTP/1.1 200 OK
+	< Date: Fri, 04 Jan 2013 15:35:35 GMT
+	< Server: AllYourBaseAreBelongToUs
+	< 
+	foo@bar.com
+	
+Ensuite, les questions auront pour but de vous guider dans l’écriture d’un programme dont il vous sera demandé les sources à l’issue de la phase de pré-sélection. Nous jugerons les participants à la fois sur la qualité du code écrit et sur la vitesse à laquelle les serveurs ont répondu aux questions.
+
+Ne paniquez pas, en cours de concours, vous recevrez des emails pour vous donner plus d’instructions sur le déroulement.
+
+**Par où commencer?**
+
+Inscrivez-vous [ici](https://docs.google.com/spreadsheet/viewform?formkey=dDdHc3N2V2R1bHRMZHFmOGk3SWZKTmc6MQ#gid=0).
+
+Puis, pour des exemples de façons de démarrer un serveur web dans plusieurs langages, voir [https://github.com/xebia-france/extreme_startup_servers](https://github.com/xebia-france/extreme_startup_servers)
