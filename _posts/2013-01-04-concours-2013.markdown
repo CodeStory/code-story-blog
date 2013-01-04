@@ -24,7 +24,7 @@ Le concours pour sélectionner ces "challengers" se déroulera en trois phases :
 
 Chaque développeur souhaitant participer doit se faire connaitre sur [ce formulaire](https://docs.google.com/spreadsheet/viewform?formkey=dDdHc3N2V2R1bHRMZHFmOGk3SWZKTmc6MQ#gid=0). Il devra également installer un serveur web public qui lui servira pour participer. Le principe est simple: L’équipe de CodeStory va poser une question au serveur de chaque participant au travers d’une requête http GET. Chaque serveur doit répondre à cette question avant de passer à la question suivante. En cas de mauvaise réponse, la question sera répétées régulièrement jusqu’à ce qu’une bonne réponse soit fournie. La réponse doit être fournie dans le body de la réponse de la requête http.
 
-La première question est simple. L’url `http://(serveur)/?q=Quelle est ton adresse email` de votre serveur doit répondre par un document ne contenant que votre adresse email.
+La première question est simple. L’url `http://(serveur)/?q=Quelle+est+ton+adresse+email` de votre serveur doit répondre par un document ne contenant que votre adresse email.
 
 	curl http://foobar.com:9090/?q=Quelle+est+ton+adresse+email
 	> GET / HTTP/1.1
