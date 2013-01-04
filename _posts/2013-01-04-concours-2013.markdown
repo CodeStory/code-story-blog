@@ -20,7 +20,7 @@ Le concours pour sélectionner ces "challengers" se déroulera en trois phases :
  * Une seconde phase courant février. Les concurrents qui auront passé la première phase, seront invités à coder en live avec nous, sur Paris, pendant une soirée. A l’issue de cette soirée, nous choisirons le binôme de "challengers" !
  * Le grand final aura lieu à Devoxx France, du 27 au 29 Mars 2013. Lors de cette finale, nous confronterons les 2 binômes. (Sous réserve de confirmation par l’équipe d’organisation de Devoxx !)
 
-**Comment va se dérouler la phase de pré-sélection ? **
+**Comment va se dérouler la phase de pré-sélection ?**
 
 Chaque développeur souhaitant participer doit se faire connaitre sur [ce formulaire](https://docs.google.com/spreadsheet/viewform?formkey=dDdHc3N2V2R1bHRMZHFmOGk3SWZKTmc6MQ#gid=0). Il devra également installer un serveur web public qui lui servira pour participer. Le principe est simple: L’équipe de CodeStory va poser une question au serveur de chaque participant au travers d’une requête http GET. Chaque serveur doit répondre à cette question avant de passer à la question suivante. En cas de mauvaise réponse, la question sera répétées régulièrement jusqu’à ce qu’une bonne réponse soit fournie. La réponse doit être fournie dans le body de la réponse de la requête http.
 
