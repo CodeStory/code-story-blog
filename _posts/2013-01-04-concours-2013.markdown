@@ -44,4 +44,6 @@ Ne paniquez pas, en cours de concours, vous recevrez des emails pour vous donner
 
 **Par où commencer?**
 
-Pour des exemples de façons de démarrer un serveur web dans plusieurs langages, voir [https://github.com/xebia-france/extreme_startup_servers](https://github.com/xebia-france/extreme_startup_servers)
+Inscrivez-vous [ici](https://docs.google.com/spreadsheet/viewform?formkey=dDdHc3N2V2R1bHRMZHFmOGk3SWZKTmc6MQ#gid=0).
+
+Puis, pour des exemples de façons de démarrer un serveur web dans plusieurs langages, voir [https://github.com/xebia-france/extreme_startup_servers](https://github.com/xebia-france/extreme_startup_servers)
