@@ -8,26 +8,26 @@ category: post
 
 ## FAQ du concours 2013
 
-On a reçu pas mal de questions par email, twitter & IRL.
+Nous avons reçu de nombreuses questions par email, twitter et IRL.
 Voici une petite FAQ qui vise à y répondre :
 
-**Est-ce que toutes les phases sont obligatoires ? **
+**Toutes les phases sont-elles obligatoires ? **
 
-Oui, toutes les phases sont obligatoires, on ne peut pas arriver en cours de concours. Il faut donc forcément participer à la première phase.
+Oui, toutes les phases sont obligatoires. On ne peut pas arriver en cours de concours. Il faut donc forcément participer à la première phase.
 
 
-**Jusqu'à quand je peux participer ? **
+**Jusqu'à quand puis-je participer ? **
 
-Il faut t'inscrire et répondre aux questions du serveur CodeStory pendant la phase de pré-sélection c'est à dire d'ici au 31 Janvier 2013 minuit.
+Il faut t'inscrire et répondre aux questions du serveur CodeStory pendant la phase de pré-sélection c'est à dire d'ici au 31 Janvier 2013 minuit. Si tu es rapide, tu peux t'y mettre le 31 à 23h. L'important, c'est la date limite.
 
 
 **Combien de temps ça va me prendre ?**
 
-Pour la phase de pré-sélection : C'est assez variable, et on code tous de manières différentes. Mais les petits exercices que nous avons préparé ne devraient pas prendre plus de 2 ou 3 heures, maximum. On se réserve le droit de poser d'autres questions après coup si on n'arrive pas à départager sur les premiers exercices. Mais ça donne un ordre d'idée.
+Pour la phase de pré-sélection : c'est assez variable. On code tous de manières différentes. Mais les petits exercices que nous avons préparés ne devraient pas vous prendre plus de 2 ou 3 heures. Nous nous réservons le droit de poser d'autres questions après-coup si les premiers exercices ne permettent pas de départager les candidats. Mais ça donne un ordre d'idée.
 
-Pour la seconde phase, fin février: Ca sera une soirée sur Paris (2-3 heures)
+Pour la seconde phase, fin février: ça sera une soirée de 2-3 heures sur Paris.
 
-Pour la dernière phase, ça sera une journée pendant [Devoxx France](http://www.devoxx.com/display/FR13/Home), de toute façon tu allais venir alors ça compte pas vraiment ;)
+Pour la dernière phase, ça sera une journée pendant [Devoxx France](http://www.devoxx.com/display/FR13/Home), de toutes les façons tu allais venir. Alors ça ne compte pas vraiment ;)
 
 **Mon serveur dors et vous n'envoyez rien ! Qu'est ce qui ce passe ?**
 
@@ -41,14 +41,14 @@ Il y a des hébergeurs cloud qui proposent spécifiquement leur produits pour le
  * CloudFoundry propose de [l'hébergement](http://twitter.com/ebottard/status/288232326893301760)
  * CleverCloud propose de [l'hébergement](http://code-story.net/2013/01/04/concours-2013.html#comment-759028628)
 
-Cela dit n'importe quelle machine connectée à internet, par exemple chez toi derrière ta box adsl peux faire l'affaire. (Ou le raspberry pi que tu as acheté pour Noël et qui dort déjà dans un tiroir...)
+Cela dit n'importe quelle machine connectée à Internet, par exemple chez toi derrière ta box adsl, peut faire l'affaire. (Ou le raspberry pi que tu as acheté pour Noël et qui dort déjà dans un tiroir...)
 
-**Mon serveur se "réveille" à la première requête, et donc je vais être pénalisé sur les première requêtes, si vous comptabilisez le temps de réponse.**
+**Mon serveur se "réveille" à la première requête, et donc je vais être pénalisé si vous comptabilisez le temps de réponse.**
 
-C'est pas un concours de performance. A priori ça n'est est pas critique. Eventuellement on se réserve le droit de regarder la latence intelligemment pour départager.
+Ca n'est pas un concours de performance. A priori ça n'est donc pas critique. Eventuellement nous pouvons regarder la latence intelligemment pour départager les candidats.
 
-**Quel langage puis-je utiliser ? **
+**Quel langage puis-je utiliser ?**
 
-On n'est pas sectaire, on accepte tous les langages, même du Scala.
+Nous ne sommes pas sectaires, on accepte tous les langages. Même Scala.
 
-N'hésitez pas à nous demander sur twitter ou dans les commentaires ci dessous si vous avez d'autres questions.
+N'hésitez pas à nous demander sur Twitter ou dans les commentaires ci dessous si vous avez d'autres questions.
