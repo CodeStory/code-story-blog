@@ -30,6 +30,7 @@ Pour la seconde phase, fin févier: Ca sera une soirée sur Paris (2-3 heures)
 Pour la derniere phase, ca sera 1 journée pendant [Devoxx France](http://www.devoxx.com/display/FR13/Home), de toute façon tu allais venir alors ca compte pas vraiment ;)
 
 **Mon serveur dors et vous n'envoyez rien ! Qu'est ce qui ce passe ?**
+
 Rien d'anormal, notre timing est serré entre nos vies personnelles & professionelles bien remplies. Be patient.
 
 
@@ -43,9 +44,11 @@ Il y a des hebergeurs cloud qui proposent spécifiquement leur produits pour le 
 Cela dit n'importe quelle machine connecté à internet, par exemple chez toi derriere ta box adsl peux faire l'affaire. (Ou le rasperripi que tu as acheté pour noel et qui dors déjà dans un tiroir...)
 
 **Mon serveur se "réveille" à la première requete, et donc je vais etre pénalisé sur les première requetes, si vous comptabilisé le temps de réponse.**
-C'est pas un concours de performance. A priori c'est pas critique.
+
+C'est pas un concours de performance. A priori c'est pas critique. Eventuellement on se reserve le droit de regarder la latence intelligement pour départager.
 
 **Quel langage puis-je utiliser ? **
+
 On est pas sectaire, on accepte tous les langages, même du scala.
 
 N'hésitez pas à nous demander sur twitter ou dans les commentaires ci dessous si vous avez d'autres questions.
