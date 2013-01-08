@@ -41,7 +41,7 @@ Il y a des hebergeurs cloud qui proposent spécifiquement leur produits pour le 
 * CloudFoundry propose de [l'hébergement](http://twitter.com/ebottard/status/288232326893301760)
 * CleverCloud propose de [l'hébergement](http://code-story.net/2013/01/04/concours-2013.html#comment-759028628)
 
-Cela dit n'importe quelle machine connecté à internet, par exemple chez toi derriere ta box adsl peux faire l'affaire. (Ou le rasperripi que tu as acheté pour noel et qui dors déjà dans un tiroir...)
+Cela dit n'importe quelle machine connecté à internet, par exemple chez toi derriere ta box adsl peux faire l'affaire. (Ou le raspberry pi que tu as acheté pour noël et qui dors déjà dans un tiroir...)
 
 **Mon serveur se "réveille" à la première requete, et donc je vais etre pénalisé sur les première requetes, si vous comptabilisé le temps de réponse.**
 
