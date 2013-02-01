@@ -1,0 +1,86 @@
+---
+layout: post
+title: Fin du concours de la phase 1
+lang: français
+badge: top
+category: post
+---
+Hier soir à minuit c'était la fin du cfp de devoxx, mais surtout la fin de la première phase du concours de codestory 2013.
+
+Pendant pas loin d'1 mois, nous avons à travers notre robot, posé tout un tas de questions aux serveurs des joueurs. A la fin du concours nous avons recencé 135 joueurs comme l'atteste la [page de statut](http://status.code-story.net).
+Les questions étaient de 3 types differents :
+
+1. Des questions d'ordres générales, dont le but était de tester la connectivité entre le serveur et notre robot, nottament les temps de "réveil" des serveurs utilisant des solutions gratuites sur le cloud.
+2. Des énoncés de sujets, il y en a eu 2. Le premier ["l'échoppe de monade sur Scalaskel"](http://code-story.net/2013/01/22/scalaskel.html) et le suivant "location d'astronef sur Jajascript" dont nous dévoilerons le sujet trés bientôt pour les non participants.
+3. Des tests qui visaient à vous faire coder l'énoncé petit à petit en mode "pas à pas". Certains ont joué le jeu de découvrir le chemin que nous avions tracé, d'autre on preferé tout coder d'un coup. Nous n'avions bien sur pas pris en compte cette façon de faire pour notre selection.
+
+Au final nous avons donc posé quelques questions d'ordre général, un exercice relativement simple, et un autre plus complexe... au départ.
+
+En effet, nous nous sommes rendu compte que plusieurs d'entre vous étaient trés à l'aise avec nos sujets, et nous avons décidé de corser un peu l'affaire en envoyant de plus en plus de calcul à faire pour notre second exercice, au point ou il fallait sacrément optimiser son algorithme pour arriver à répondre dans le temps imparti.
+Ceux qui ont réussi on eu 10000 points, et nous avons considéré que au dela de 1000 points, l'optimisation était déjà bien réussie. De base avec un algorithme "brut de fonderie" il est relativement aisé de faire 100 points.
+
+Grace à un petit [script](https://gist.github.com/4693696), voici la liste de tous ceux répondant à ces critères (environ 50 personnes).
+Ceux qui le voudront, seront convié à la phase 2, qui aura lieu dans un endroit encore tenu secret, mais ca va vous plaire.
+
+<style type="text/css">
+#post img {
+   display: inline-block;
+   margin: 0;
+}
+#post ul {
+   margin-bottom: 5px	
+}
+</style>
+
+* 10000 Points
+	* ![](http://www.gravatar.com/avatar/198449a7e196c4b0f2ed25f65279bf84?s=32) a14n
+	* ![](http://www.gravatar.com/avatar/cf23eaf23d3545c891bde81041919a9b?s=32) julien_scala
+	* ![](http://www.gravatar.com/avatar/7b5fd196f26d88a6f72c9b25744f5c6b?s=32) Mimah
+	* ![](http://www.gravatar.com/avatar/814533c1d939fa0d95785366ee7d6bec?s=32) eTini
+	* ![](http://www.gravatar.com/avatar/acede2545a558df3b183683a0cf9b962?s=32) ybonnel
+	* ![](http://www.gravatar.com/avatar/7d1cae5a72c40c302eef563709d034ea?s=32) fXzo
+	* ![](http://www.gravatar.com/avatar/f701185ff431c3d5c267a3af71f64c7b?s=32) Iliah
+	* ![](http://www.gravatar.com/avatar/fa65a26193f2474749b3a5f22472160d?s=32) ardumont
+	* ![](http://www.gravatar.com/avatar/6595ae6ba5ca0712e8e3074f2d9063d2?s=32) laurentpetit
+	* ![](http://www.gravatar.com/avatar/6c7f99e843b1694a14c3fc83802d4792?s=32) redfish4ktc
+	* ![](http://www.gravatar.com/avatar/8351ca02028e290f64939beb7e1385c1?s=32) benzonico
+	* ![](http://www.gravatar.com/avatar/cf0ce44e342943d56f115165b7d78bdd?s=32) Godin
+	* ![](http://www.gravatar.com/avatar/9814b62644127c96645055972787be3b?s=32) jcreigno
+	* ![](http://www.gravatar.com/avatar/54c79064a6cb32c62f0f0aed44146fad?s=32) BenoitV
+	* ![](http://www.gravatar.com/avatar/2799805396016e89df69d26d22c4445c?s=32) gz_k
+	* ![](http://www.gravatar.com/avatar/acede2545a558df3b183683a0cf9b962?s=32) ybonnel_scala
+	* ![](http://www.gravatar.com/avatar/45bee60d91aa367b7f1a1aa14231b8c5?s=32) shionn
+	* ![](http://www.gravatar.com/avatar/d4e08e932563394be8acb10f0f1e109a?s=32) diodfr
+	* ![](http://www.gravatar.com/avatar/244ca88ef39ec144d63d0b7792873fe1?s=32) LittleGhost
+	* ![](http://www.gravatar.com/avatar/faf5358ab24ee4aaee5086c943ecd9b6?s=32) denis-labaye
+	* ![](http://www.gravatar.com/avatar/118ef8afc587a7f4a9c979c091213255?s=32) TomEtJerem
+	* ![](http://www.gravatar.com/avatar/0b54c0f079b22ef60df00c5d64744d63?s=32) dwursteisen
+	* ![](http://www.gravatar.com/avatar/66411f269647a42d9509ca74ab513adc?s=32) Pticed
+	* ![](http://www.gravatar.com/avatar/6dc11d7fd372413731cfe2b326f9c905?s=32) JroAimServices
+	* ![](http://www.gravatar.com/avatar/2055a0b8bfcd3b02aa3109d09339fe91?s=32) bartavelle
+	* ![](http://www.gravatar.com/avatar/169032f2ed59261020a056eeb8b1ad9e?s=32) DamienB
+	* ![](http://www.gravatar.com/avatar/5a9a33e6c0397ed112a7c955728f3a1f?s=32) XtlCnslt
+	* ![](http://www.gravatar.com/avatar/c20f5fffaddba6702ccad53b5b1c4b49?s=32) stephanec
+	* ![](http://www.gravatar.com/avatar/1ee80ee0278e5ed57e43643ee4098ce6?s=32) fbaligand
+	* ![](http://www.gravatar.com/avatar/49d726644cf56d4b4a6c28c001b6d03a?s=32) flagadajones
+	* ![](http://www.gravatar.com/avatar/133b00fcaf11e63476ed9997e56e0a6c?s=32) matleclaire
+	* ![](http://www.gravatar.com/avatar/acede2545a558df3b183683a0cf9b962?s=32) ybonnel_ceylon
+	* ![](http://www.gravatar.com/avatar/638a15539632fc2caaf2a94975683f13?s=32) oxyde
+	* ![](http://www.gravatar.com/avatar/f420aa2420a222608f982f4ccfe3888d?s=32) jcsirot
+	* ![](http://www.gravatar.com/avatar/44e05663a595119d9f71d139461b5e88?s=32) CyrilLacote
+	* ![](http://www.gravatar.com/avatar/9ec96799dd90029b4f1caf6d1475c1bb?s=32) sebprunier
+	* ![](http://www.gravatar.com/avatar/cf23eaf23d3545c891bde81041919a9b?s=32) julien
+	* ![](http://www.gravatar.com/avatar/ae943b063539e5fa7e625e50cdc01fde?s=32) gdhordain
+	* ![](http://www.gravatar.com/avatar/823cc38b227e3b03babd0b3e4642f8f1?s=32) xavierhanin
+	* ![](http://www.gravatar.com/avatar/1f1bbe56337f5f85744c1ea94aafcfc9?s=32) AlainMuller
+	* ![](http://www.gravatar.com/avatar/b123fe4bebd0bfd8fb985e60c14e36bd?s=32) JB
+* 2000 points
+	* ![](http://www.gravatar.com/avatar/df747935bec069aee97b9fcd124fc7c3?s=32) gbloquel
+	* ![](http://www.gravatar.com/avatar/5cbc2ec2a104710bed760df82a4cc24c?s=32) Raspberry-Pi
+	* ![](http://www.gravatar.com/avatar/6e1fa554b8aac01f1b94521af4a22ce8?s=32) antoine
+* 1000 points
+	* ![](http://www.gravatar.com/avatar/8643584b16941d2f2b532d122535a94e?s=32) jeremie
+	* ![](http://www.gravatar.com/avatar/b564ebca8f8f126b1d2eaf7496ef97e5?s=32) Xtrmntr
+	* ![](http://www.gravatar.com/avatar/df1516910ff74da1a423e6732f13c926?s=32) deepintojee
+	* ![](http://www.gravatar.com/avatar/a032ce09ea1c0aef1d231fe525a49da6?s=32) ypetit
+	* ![](http://www.gravatar.com/avatar/8c92fcdb7c7abc1a50732a93bc361b5e?s=32) mrenou
