@@ -11,7 +11,7 @@ Pendant pas loin d'un mois, nous avons à travers notre robot, posé tout un tas
 Les questions étaient de 3 types différents :
 
 1. Des questions d'ordres générales, dont le but était de tester la connectivité entre le serveur et notre robot, notamment les temps de "réveil" des serveurs utilisant des solutions gratuites sur le Cloud.
-2. Des énoncés de sujets, il y en a eu 2. Le premier ["l'échoppe de monade sur Scalaskel"](http://code-story.net/2013/01/22/scalaskel.html) et le suivant "location d'astronef sur Jajascript" dont nous dévoilerons le sujet très bientôt pour les non participants.
+2. Des énoncés de sujets, il y en a eu 2. Le premier ["l'échoppe de monade sur Scalaskel"](http://code-story.net/2013/01/22/scalaskel.html) et le suivant ["location d'astronef sur Jajascript"](http://code-story.net/2013/02/02/jajascript.html)
 3. Des tests qui visaient à vous faire coder l'énoncé petit à petit en mode "pas à pas". Certains ont joué le jeu de découvrir le chemin que nous avions tracé, d'autre on préféré tout coder d'un coup. Nous n'avions bien sur pas pris en compte cette façon de faire pour notre sélection.
 
 Au final nous avons donc posé quelques questions d'ordre général, un exercice relativement simple, et un autre plus complexe... au départ.
