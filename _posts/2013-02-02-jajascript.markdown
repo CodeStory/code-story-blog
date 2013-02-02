@@ -6,16 +6,16 @@ badge: fatty
 category: post
 ---
 
-Maintenant que le concours est terminé, nous vous livrons le second exercice auxquels nous avons soumis nos candidats. C'est sur cet exercice en particulier que nous avons augmenté la complexité par petit pas.
+Maintenant que le concours est terminé, nous vous livrons le second exercice auxquel nous avons soumis nos candidats. C'est sur cet exercice en particulier que nous avons augmenté la complexité par petit pas.
 
-Cet exercice est plus complexe que le précédent, nottament lorsque vous devez traiter des niveaux importants de flux d'astronefs. Nous avons soumis nos candidats à effectuer une réponse de traitement de calcul en moins de 30 secondes.
+Cet exercice est plus complexe que le précédent, notamment lorsque vous devez traiter des niveaux importants de flux d'astronefs. Nous avons soumis nos candidats à effectuer une réponse de traitement de calcul en moins de 30 secondes.
 
-1. Essayez de resoudre l'exercice, avec le cas de test inclus qui contient 4 trajets.
+1. Essayez de résoudre l'exercice, avec le cas de test inclus qui contient 4 trajets.
 2. Essayez avec le ce fichier de [50 trajets](http://code-story.net/data/jajascript-50.zip)
 3. Puis sur celui-ci de [50000 trajets](http://code-story.net/data/jajascript-10k.zip). (attention 4mo de json, que nous vous avons zippé par respect de bande passante).
 4. Amusez vous avec notre [générateur de payload](https://github.com/CodeStory/jajascript-generator), a tenter des chiffres encore plus grand.
 
-Notez que dans le cas du concours, il convient de répondre en 30 secondes, temps de transport de l'information compris, c'est à dire du payload json final. Vous aurez du mal à reproduire cette contrainte sans un client/serveur distant l'un de l'autre. Mais cela vous donne une idée des difficultés que les joueurs ont rencontrés pour finir cet exercice. Une réponse en moins de 30 secondes du fichier de 50000 trajets lié plus haut, permettait d'obtenir les 10000 points necessaire pour être en tête.
+Notez que dans le cas du concours, il convient de répondre en 30 secondes, temps de transport de l'information compris, c'est à dire du payload json final. Vous aurez du mal à reproduire cette contrainte sans un client/serveur distant l'un de l'autre. Mais cela vous donne une idée des difficultés que les joueurs ont rencontrés pour finir cet exercice. Une réponse en moins de 30 secondes du fichier de 50000 trajets lié plus haut, permettait d'obtenir les 10000 points nécessaire pour être en tête.
 
 Sans plus attendre voici l'énoncé que nous avons envoyé il y a 15 jours à nos candidats :
 
