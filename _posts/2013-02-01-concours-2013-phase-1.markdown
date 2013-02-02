@@ -5,22 +5,22 @@ lang: français
 badge: top
 category: post
 ---
-Hier soir à minuit c'était la fin du cfp de devoxx, mais surtout la fin de la première phase du concours de codestory 2013.
+Hier soir à minuit c'était la fin du Call for Paper de Devoxx, mais surtout la fin de la première phase du concours de CodeStory 2013.
 
-Pendant pas loin d'1 mois, nous avons à travers notre robot, posé tout un tas de questions aux serveurs des joueurs. A la fin du concours nous avons recencé 135 joueurs comme l'atteste la [page de statut](http://status.code-story.net).
-Les questions étaient de 3 types differents :
+Pendant pas loin d'un mois, nous avons à travers notre robot, posé tout un tas de questions aux serveurs des joueurs. A la fin du concours nous avons recensé 135 joueurs comme l'atteste la [page de statut](http://status.code-story.net).
+Les questions étaient de 3 types différents :
 
-1. Des questions d'ordres générales, dont le but était de tester la connectivité entre le serveur et notre robot, nottament les temps de "réveil" des serveurs utilisant des solutions gratuites sur le cloud.
-2. Des énoncés de sujets, il y en a eu 2. Le premier ["l'échoppe de monade sur Scalaskel"](http://code-story.net/2013/01/22/scalaskel.html) et le suivant "location d'astronef sur Jajascript" dont nous dévoilerons le sujet trés bientôt pour les non participants.
-3. Des tests qui visaient à vous faire coder l'énoncé petit à petit en mode "pas à pas". Certains ont joué le jeu de découvrir le chemin que nous avions tracé, d'autre on preferé tout coder d'un coup. Nous n'avions bien sur pas pris en compte cette façon de faire pour notre selection.
+1. Des questions d'ordres générales, dont le but était de tester la connectivité entre le serveur et notre robot, notamment les temps de "réveil" des serveurs utilisant des solutions gratuites sur le Cloud.
+2. Des énoncés de sujets, il y en a eu 2. Le premier ["l'échoppe de monade sur Scalaskel"](http://code-story.net/2013/01/22/scalaskel.html) et le suivant "location d'astronef sur Jajascript" dont nous dévoilerons le sujet très bientôt pour les non participants.
+3. Des tests qui visaient à vous faire coder l'énoncé petit à petit en mode "pas à pas". Certains ont joué le jeu de découvrir le chemin que nous avions tracé, d'autre on préféré tout coder d'un coup. Nous n'avions bien sur pas pris en compte cette façon de faire pour notre sélection.
 
 Au final nous avons donc posé quelques questions d'ordre général, un exercice relativement simple, et un autre plus complexe... au départ.
 
-En effet, nous nous sommes rendu compte que plusieurs d'entre vous étaient trés à l'aise avec nos sujets, et nous avons décidé de corser un peu l'affaire en envoyant de plus en plus de calcul à faire pour notre second exercice, au point ou il fallait sacrément optimiser son algorithme pour arriver à répondre dans le temps imparti.
-Ceux qui ont réussi on eu 10000 points, et nous avons considéré que au dela de 1000 points, l'optimisation était déjà bien réussie. De base avec un algorithme "brut de fonderie" il est relativement aisé de faire 100 points.
+En effet, nous nous sommes rendu compte que plusieurs d'entre vous étaient très à l'aise avec nos sujets, et nous avons décidé de corser un peu l'affaire en envoyant de plus en plus de calcul à faire pour notre second exercice, au point ou il fallait sacrément optimiser son algorithme pour arriver à répondre dans le temps imparti.
+Ceux qui ont réussi on eu 10000 points, et nous avons considéré que au delà de 1000 points, l'optimisation était déjà bien réussie. De base avec un algorithme "brut de fonderie" il est relativement aisé de faire 100 points.
 
 Grace à un petit [script](https://gist.github.com/4693696), voici la liste de tous ceux répondant à ces critères (environ 50 personnes).
-Ceux qui le voudront, seront convié à la phase 2, qui aura lieu dans un endroit encore tenu secret, mais ca va vous plaire.
+Ceux qui le voudront, seront convié à la phase 2, qui aura lieu dans un endroit encore tenu secret, mais ça va vous plaire.
 
 <style type="text/css">
 #post img {
