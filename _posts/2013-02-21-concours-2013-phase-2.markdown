@@ -18,6 +18,8 @@ Nous avons aussi quelques binomes qui sont en remote que nous connectons à la s
 
 Si vous voulez faire comme nous ce soir, vous le pouvez car nous vous livrons maintenant et ici même le sujet de la soirée :
 
-<script data-id="04f7f8605e5d0130e3c5123138132f99" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<script data-id="04f7f8605e5d0130e3c5123138132f99" data-ratio="1.33333333333333" src="http://speakerdeck.com/assets/embed.js"></script>
+
 
 
