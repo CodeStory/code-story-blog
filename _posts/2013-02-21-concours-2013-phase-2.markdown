@@ -1,0 +1,23 @@
+---
+layout: post
+title: Concours 2013 phase 2
+lang: français
+badge: fatty
+category: post
+---
+
+Ce jeudi 21 février à 18h00 à lieu la dernière phase de la sélection du concours CodeStory 2013. Devoxx France est dans 1 mois. Il est temps que l'équipe 2013 de CodeStory se prépare pour une conférence qui s'annonce exceptionelle.
+
+Pour cette phase finale, nous accueillons les meilleurs des participants à la première phase. Ils sont une quarantaine et sont regroupés en binomes. En effet nous ne sélectionnons pas des codeurs solitaires mais bien un binome aguéri, rompu au travail de groupe. 
+
+Google France nous ouvre exceptionellement ses nouveaux locaux pour cette soirée, merci à Alexis. Merci aussi à SonarSource qui va assurer notre repas de Geekettes et Geeks.
+
+Le fichier json de data optionel que nous proposons est [téléchargeables](http://code-story.net/data/codestory2013.json).
+
+Nous avons aussi quelques binomes qui sont en remote que nous connectons à la soirée via un [Hangout public](https://plus.google.com/hangouts/_/61646304a06010ac4564c87a5986eeded79da93a?authuser=0&hl=en).
+
+Si vous voulez faire comme nous ce soir, vous le pouvez car nous vous livrons maintenant et ici même le sujet de la soirée :
+
+<script data-id="04f7f8605e5d0130e3c5123138132f99" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
