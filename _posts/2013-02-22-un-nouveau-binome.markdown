@@ -38,9 +38,13 @@ Les membres du jury on ensuite délibéré pour élire celle qui se détachait d
 
 Nous avons beaucoup hésité entre celle de Yan Bonnel & Alexandre Ardhuin et celle de de Xavier Hanin & Christophe Labouisse.
 
-![L'application de Xavier & Christophe](xavier-christophe.png)
 
-![L'application de Yan & Alexandre](yan-alexandre.png)
+L'application de Xavier & Christophe :
+![L'application de Xavier & Christophe](/images/finale-2013/xavier-christophe.png)
+
+L'application de Yan & Alexandre :
+![L'application de Yan & Alexandre](/images/finale-2013/yan-alexandre.png)
+
 
 Nous avons finalement choisi à une petite voix pret l'application de Xavier.
 Mais c'était vraiment trés serré.
@@ -50,4 +54,4 @@ Bravo donc à Xavier et Christophe, qui sont donc invité à Devoxx pour partici
 
 Ils en parlent (déjà) :
 
-	* http://www.touilleur-express.fr/2013/02/22/finale-2013-de-code-story-chez-google-france/
+* http://www.touilleur-express.fr/2013/02/22/finale-2013-de-code-story-chez-google-france/
