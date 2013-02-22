@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Un nouveau binome
+title: Un nouveau binôme
 lang: français
 badge: phantom
 category: post
