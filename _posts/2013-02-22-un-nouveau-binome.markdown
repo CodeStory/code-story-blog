@@ -54,4 +54,4 @@ Bravo donc à Xavier et Christophe, qui sont donc invité à Devoxx pour partici
 
 Ils en parlent (déjà) :
 
-* http://www.touilleur-express.fr/2013/02/22/finale-2013-de-code-story-chez-google-france/
+* [Le Touilleur Express](http://www.touilleur-express.fr/2013/02/22/finale-2013-de-code-story-chez-google-france/)
