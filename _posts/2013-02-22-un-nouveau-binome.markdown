@@ -6,7 +6,7 @@ badge: phantom
 category: post
 ---
 
-Nous étions une petite quarantaine hier soir dans les nouveaux locaux de Google pour le choix du binôme qui nous accompagnera à la conférence devoxx 2013.
+Nous étions une petite quarantaine hier soir dans les nouveaux locaux de Google, sponsorisé par SonarSource pour le repas, pour le choix du binôme qui nous accompagnera à la conférence devoxx 2013.
 
 ![Les 2 algos](/images/finale-2013/8.jpg)
 
@@ -25,7 +25,7 @@ Il y avait donc beaucoup de chose à faire :
 
 Pas mal de binômes, ont eu du mal à remplir tous ces critères, il suffit de perdre 30 minutes sur une clé SSH, une mauvaise configuration de son IDE ou un soucis de configuration de son cloud.
 
-![Les 2 algos](/images/finale-2013/5.jpg)
+![Finale](/images/finale-2013/5.jpg)
 
 Mais globalement sur la 20 d'applications proposés, 7 ont globalement remplies ces critères.
 Il s'agit celle de :
@@ -53,6 +53,9 @@ L'application de [Yan & Alexandre](http://serveur.ybonnel.fr:8080/) :
 Nous avons finalement choisi à une petite voix prêt l'application de Xavier. C'était vraiment très serré.
 
 Bravo donc à Xavier et Christophe, qui sont donc invité à Devoxx pour participer le jeudi 28 mars à CodeStory 2013 !
+
+![Binome gagnant](/images/finale-2013/7.jpg)
+
 
 Ils en parlent (déjà) :
 
