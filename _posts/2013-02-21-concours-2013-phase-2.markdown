@@ -20,10 +20,4 @@ Vous devez enregistrer votre serveur dans le 3eme onglet de ce [document](https:
 
 Si vous voulez faire comme nous ce soir, vous le pouvez car nous vous livrons maintenant et ici même le sujet de la soirée.
 
-les slides sont disponibles [ici](https://speakerdeck.com/dgageot/codestory-2013-la-selection-finale).
-
-
-<script data-id="04f7f8605e5d0130e3c5123138132f99" data-ratio="1.33333333333333" src="http://speakerdeck.com/assets/embed.js"></script>
-
-
-
+<script src="http://speakerdeck.com/embed/04f7f8605e5d0130e3c5123138132f99.js"></script>
