@@ -50,7 +50,7 @@ L'application de [Yan & Alexandre](http://serveur.ybonnel.fr:8080/) :
 ![L'application de Yan & Alexandre](/images/finale-2013/yan-alexandre.png)
 
 
-Nous avons finalement choisi à une petite voix prêt l'application de Xavier. C'était vraiment très serré.
+Nous avons finalement choisi à une petite voix prêt l'application de Xavier & Christophe. C'était vraiment très serré.
 
 Bravo donc à Xavier et Christophe, qui sont donc invité à Devoxx pour participer le jeudi 28 mars à CodeStory 2013 !
 
