@@ -12,7 +12,7 @@ Pour cette phase finale, nous accueillons les meilleurs des participants à la p
 
 Google France nous ouvre exceptionellement ses nouveaux locaux pour cette soirée, merci à Alexis. Merci aussi à SonarSource qui va assurer notre repas de Geekettes et Geeks.
 
-Le fichier json de data optionel que nous proposons est [téléchargeables](http://code-story.net/data/codestory2013.json).
+Le fichier json de data optionel que nous proposons est [téléchargeable](http://code-story.net/data/codestory2013.json).
 
 Nous avons aussi quelques binomes qui sont en remote que nous connectons à la soirée via un [Hangout public](https://plus.google.com/hangouts/_/61646304a06010ac4564c87a5986eeded79da93a?authuser=0&hl=en).
 
