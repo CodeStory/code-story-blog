@@ -216,12 +216,16 @@ h2.bookmark {
 	background: url('../images/badges-background.png') repeat-y center;
 	border-radius: 10px;
 	padding-top: 20px;
-	height: 340px;
 	z-index: 9999;
+}
+
+#application {
+	height: 340px;
 }
 
 #about {
 	top: 100px;
+	height: 415px;
 }
 
 #application {
